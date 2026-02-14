@@ -1,0 +1,501 @@
+Date,Crime Type,Location,Latitude,Longitude,Status,Summary,Modus Operandi,DayOfWeek,Month,Hour,Crime_Code,Location_Code,MO_Code
+2024-05-19,Arson,Bindura,-17.3019,31.3306,Closed,Arson reported in bindura.,Business Dispute / Insurance Fraud,6,5,10,0,4,4
+2024-05-23,Assault,Marondera,-18.1853,31.5514,Open,Assault reported in marondera.,Bar Fight / Alcohol Induced,3,5,17,1,23,2
+2024-01-17,Housebreaking,Chinhoyi,-17.3667,30.2,Open,Housebreaking reported in chinhoyi.,Night-time Forced Entry (Residential),2,1,10,7,8,11
+2024-07-26,Arson,Mutare,-18.975,32.67,Open,Arson reported in mutare.,Business Dispute / Insurance Fraud,4,7,5,0,25,4
+2024-06-05,Bribery,Bulawayo CBD,-20.1508,28.5795,Open,Bribery reported in bulawayo cbd.,Police/Municipal Official Extortion,2,6,18,2,5,13
+2024-09-01,Stock Theft,Zvishavane,-20.3333,30.0667,Open,Stock Theft reported in zvishavane.,Night-time Farm Raid,6,9,9,13,29,10
+2024-02-08,Smuggling,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Smuggling reported in bulawayo cbd.,Border Post Bypass (Official Corruption),3,2,21,12,5,3
+2024-06-29,Housebreaking,Chinhoyi,-17.3667,30.2,Under Investigation,Housebreaking reported in chinhoyi.,Night-time Forced Entry (Residential),5,6,12,7,8,11
+2024-05-16,Vandalism,Chinhoyi,-17.3667,30.2,Open,Vandalism reported in chinhoyi.,Political Graffiti / Public Property Damage,3,5,14,15,8,14
+2024-03-13,Murder,Chinhoyi,-17.3667,30.2,Under Investigation,Murder reported in chinhoyi.,Domestic Dispute Escalation,2,3,17,9,8,6
+2024-09-13,Vandalism,Mutare,-18.975,32.67,Closed,Vandalism reported in mutare.,Political Graffiti / Public Property Damage,4,9,6,15,25,14
+2024-01-08,Rape,Marondera,-18.1853,31.5514,Under Investigation,Rape reported in marondera.,Stranger Assault / Predatory,0,1,8,10,23,17
+2024-07-20,Theft,Zvishavane,-20.3333,30.0667,Open,Theft reported in zvishavane.,Theft of Auto Spares / Copper,5,7,14,14,29,18
+2024-03-07,Fraud,Masvingo,-20.0637,30.8277,Open,Fraud reported in masvingo.,Internet Phishing/Mobile Money Scam,3,3,15,6,24,7
+2024-04-06,Theft,Masvingo,-20.0637,30.8277,Open,Theft reported in masvingo.,Theft of Auto Spares / Copper,5,4,20,14,24,18
+2024-03-20,Theft,Victoria Falls,-17.9333,25.8333,Under Investigation,Theft reported in victoria falls.,Pickpocketing in Crowded Area,2,3,23,14,27,12
+2024-01-16,Murder,Marondera,-18.1853,31.5514,Closed,Murder reported in marondera.,Ritualistic Crime,1,1,22,9,23,15
+2024-04-11,Arson,Chinhoyi,-17.3667,30.2,Closed,Arson reported in chinhoyi.,Business Dispute / Insurance Fraud,3,4,9,0,8,4
+2024-01-21,Murder,Kwekwe,-18.9167,29.8167,Open,Murder reported in kwekwe.,Ritualistic Crime,6,1,19,9,19,15
+2024-05-15,Drug Possession,Gweru,-19.45,29.8167,Closed,Drug Possession reported in gweru.,Method Unspecified,2,5,14,5,11,9
+2024-09-28,Cybercrime,Beitbridge,-22.2167,30.0,Under Investigation,Cybercrime reported in beitbridge.,Internet Phishing/Mobile Money Scam,5,9,22,4,3,7
+2024-09-04,Stock Theft,Kwekwe,-18.9167,29.8167,Closed,Stock Theft reported in kwekwe.,Night-time Farm Raid,2,9,5,13,19,10
+2024-02-15,Housebreaking,Victoria Falls,-17.9333,25.8333,Closed,Housebreaking reported in victoria falls.,Night-time Forced Entry (Residential),3,2,22,7,27,11
+2024-03-22,Vandalism,Gweru,-19.45,29.8167,Open,Vandalism reported in gweru.,Political Graffiti / Public Property Damage,4,3,13,15,11,14
+2024-09-17,Theft,Bindura,-17.3019,31.3306,Under Investigation,Theft reported in bindura.,Theft of Auto Spares / Copper,1,9,18,14,4,18
+2024-06-10,Corruption,Kadoma,-18.3333,29.9167,Under Investigation,Corruption reported in kadoma.,Police/Municipal Official Extortion,0,6,22,3,18,13
+2024-07-27,Vandalism,Kadoma,-18.3333,29.9167,Closed,Vandalism reported in kadoma.,Political Graffiti / Public Property Damage,5,7,23,15,18,14
+2024-06-03,Cybercrime,Gweru,-19.45,29.8167,Under Investigation,Cybercrime reported in gweru.,Internet Phishing/Mobile Money Scam,0,6,7,4,11,7
+2024-03-03,Robbery,Chitungwiza,-18.0127,31.0756,Open,Robbery reported in chitungwiza.,"Armed, Targeting Cash Transit",6,3,10,11,9,1
+2024-09-29,Drug Possession,Kadoma,-18.3333,29.9167,Open,Drug Possession reported in kadoma.,Method Unspecified,6,9,4,5,18,9
+2024-06-26,Arson,Gweru,-19.45,29.8167,Under Investigation,Arson reported in gweru.,Business Dispute / Insurance Fraud,2,6,19,0,11,4
+2024-05-24,Murder,Zvishavane,-20.3333,30.0667,Under Investigation,Murder reported in zvishavane.,Ritualistic Crime,4,5,21,9,29,15
+2024-08-15,Stock Theft,Masvingo,-20.0637,30.8277,Closed,Stock Theft reported in masvingo.,Night-time Farm Raid,3,8,14,13,24,10
+2024-05-25,Housebreaking,Victoria Falls,-17.9333,25.8333,Open,Housebreaking reported in victoria falls.,Night-time Forced Entry (Residential),5,5,2,7,27,11
+2024-02-01,Smuggling,Beitbridge,-22.2167,30.0,Closed,Smuggling reported in beitbridge.,Border Post Bypass (Official Corruption),3,2,2,12,3,3
+2024-10-13,Theft,Chinhoyi,-17.3667,30.2,Under Investigation,Theft reported in chinhoyi.,Theft of Auto Spares / Copper,6,10,5,14,8,18
+2024-02-13,Drug Possession,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Drug Possession reported in bulawayo cbd.,Method Unspecified,1,2,23,5,5,9
+2024-07-16,Drug Possession,Zvishavane,-20.3333,30.0667,Under Investigation,Drug Possession reported in zvishavane.,Method Unspecified,1,7,1,5,29,9
+2024-04-13,Robbery,Zvishavane,-20.3333,30.0667,Under Investigation,Robbery reported in zvishavane.,Machete Attack / Panga Robbery,5,4,13,11,29,8
+2024-03-31,Bribery,Chinhoyi,-17.3667,30.2,Open,Bribery reported in chinhoyi.,Police/Municipal Official Extortion,6,3,8,2,8,13
+2024-03-12,Corruption,Chinhoyi,-17.3667,30.2,Under Investigation,Corruption reported in chinhoyi.,Police/Municipal Official Extortion,1,3,12,3,8,13
+2024-08-15,Corruption,Victoria Falls,-17.9333,25.8333,Open,Corruption reported in victoria falls.,Police/Municipal Official Extortion,3,8,20,3,27,13
+2024-06-29,Fraud,Chitungwiza,-18.0127,31.0756,Under Investigation,Fraud reported in chitungwiza.,Internet Phishing/Mobile Money Scam,5,6,19,6,9,7
+2024-08-27,Stock Theft,Beitbridge,-22.2167,30.0,Under Investigation,Stock Theft reported in beitbridge.,Cross-Border Smuggling,1,8,5,13,3,5
+2024-06-10,Rape,Victoria Falls,-17.9333,25.8333,Open,Rape reported in victoria falls.,Acquaintance Rape,0,6,12,10,27,0
+2024-09-09,Robbery,Chitungwiza,-18.0127,31.0756,Closed,Robbery reported in chitungwiza.,"Armed, Targeting Cash Transit",0,9,12,11,9,1
+2024-05-11,Bribery,Marondera,-18.1853,31.5514,Closed,Bribery reported in marondera.,Police/Municipal Official Extortion,5,5,14,2,23,13
+2024-01-03,Murder,Victoria Falls,-17.9333,25.8333,Closed,Murder reported in victoria falls.,Domestic Dispute Escalation,2,1,23,9,27,6
+2024-06-28,Cybercrime,Mutare,-18.975,32.67,Under Investigation,Cybercrime reported in mutare.,Internet Phishing/Mobile Money Scam,4,6,7,4,25,7
+2024-07-26,Arson,Kwekwe,-18.9167,29.8167,Open,Arson reported in kwekwe.,Business Dispute / Insurance Fraud,4,7,11,0,19,4
+2024-06-09,Theft,Chitungwiza,-18.0127,31.0756,Closed,Theft reported in chitungwiza.,Theft of Auto Spares / Copper,6,6,19,14,9,18
+2024-06-11,Corruption,Chinhoyi,-17.3667,30.2,Closed,Corruption reported in chinhoyi.,Police/Municipal Official Extortion,1,6,5,3,8,13
+2024-03-26,Cybercrime,Zvishavane,-20.3333,30.0667,Under Investigation,Cybercrime reported in zvishavane.,Internet Phishing/Mobile Money Scam,1,3,23,4,29,7
+2024-04-06,Assault,Harare Central,-17.825,31.053,Under Investigation,Assault reported in harare central.,Bar Fight / Alcohol Induced,5,4,0,1,14,2
+2024-01-19,Arson,Kadoma,-18.3333,29.9167,Under Investigation,Arson reported in kadoma.,Business Dispute / Insurance Fraud,4,1,11,0,18,4
+2024-01-25,Stock Theft,Chitungwiza,-18.0127,31.0756,Closed,Stock Theft reported in chitungwiza.,Night-time Farm Raid,3,1,15,13,9,10
+2024-04-26,Fraud,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Fraud reported in bulawayo cbd.,Internet Phishing/Mobile Money Scam,4,4,3,6,5,7
+2024-01-22,Smuggling,Kwekwe,-18.9167,29.8167,Under Investigation,Smuggling reported in kwekwe.,Border Post Bypass (Official Corruption),0,1,13,12,19,3
+2024-09-26,Kidnapping,Victoria Falls,-17.9333,25.8333,Under Investigation,Kidnapping reported in victoria falls.,Method Unspecified,3,9,7,8,27,9
+2024-05-11,Drug Possession,Gweru,-19.45,29.8167,Open,Drug Possession reported in gweru.,Method Unspecified,5,5,8,5,11,9
+2024-02-25,Rape,Victoria Falls,-17.9333,25.8333,Closed,Rape reported in victoria falls.,Acquaintance Rape,6,2,9,10,27,0
+2024-05-09,Arson,Chitungwiza,-18.0127,31.0756,Under Investigation,Arson reported in chitungwiza.,Business Dispute / Insurance Fraud,3,5,5,0,9,4
+2024-09-08,Murder,Chinhoyi,-17.3667,30.2,Under Investigation,Murder reported in chinhoyi.,Domestic Dispute Escalation,6,9,15,9,8,6
+2024-10-17,Fraud,Marondera,-18.1853,31.5514,Closed,Fraud reported in marondera.,Internet Phishing/Mobile Money Scam,3,10,4,6,23,7
+2024-05-18,Smuggling,Victoria Falls,-17.9333,25.8333,Open,Smuggling reported in victoria falls.,Border Post Bypass (Official Corruption),5,5,13,12,27,3
+2024-06-17,Theft,Zvishavane,-20.3333,30.0667,Open,Theft reported in zvishavane.,Theft of Auto Spares / Copper,0,6,13,14,29,18
+2024-08-02,Rape,Beitbridge,-22.2167,30.0,Closed,Rape reported in beitbridge.,Acquaintance Rape,4,8,5,10,3,0
+2024-04-05,Assault,Kwekwe,-18.9167,29.8167,Closed,Assault reported in kwekwe.,Bar Fight / Alcohol Induced,4,4,13,1,19,2
+2024-02-28,Theft,Gweru,-19.45,29.8167,Under Investigation,Theft reported in gweru.,Theft of Auto Spares / Copper,2,2,10,14,11,18
+2024-06-24,Assault,Bulawayo CBD,-20.1508,28.5795,Open,Assault reported in bulawayo cbd.,Bar Fight / Alcohol Induced,0,6,12,1,5,2
+2024-08-10,Cybercrime,Chinhoyi,-17.3667,30.2,Under Investigation,Cybercrime reported in chinhoyi.,Internet Phishing/Mobile Money Scam,5,8,7,4,8,7
+2024-04-09,Bribery,Beitbridge,-22.2167,30.0,Under Investigation,Bribery reported in beitbridge.,Police/Municipal Official Extortion,1,4,9,2,3,13
+2024-03-03,Drug Possession,Bulawayo CBD,-20.1508,28.5795,Closed,Drug Possession reported in bulawayo cbd.,Method Unspecified,6,3,2,5,5,9
+2024-03-24,Murder,Mutare,-18.975,32.67,Under Investigation,Murder reported in mutare.,Domestic Dispute Escalation,6,3,9,9,25,6
+2024-10-08,Housebreaking,Gweru,-19.45,29.8167,Under Investigation,Housebreaking reported in gweru.,Night-time Forced Entry (Residential),1,10,8,7,11,11
+2024-07-30,Fraud,Masvingo,-20.0637,30.8277,Closed,Fraud reported in masvingo.,Internet Phishing/Mobile Money Scam,1,7,8,6,24,7
+2024-09-13,Kidnapping,Bindura,-17.3019,31.3306,Closed,Kidnapping reported in bindura.,Method Unspecified,4,9,12,8,4,9
+2024-07-25,Smuggling,Chitungwiza,-18.0127,31.0756,Closed,Smuggling reported in chitungwiza.,Border Post Bypass (Official Corruption),3,7,0,12,9,3
+2024-02-14,Arson,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Arson reported in bulawayo cbd.,Business Dispute / Insurance Fraud,2,2,8,0,5,4
+2024-03-26,Murder,Gweru,-19.45,29.8167,Closed,Murder reported in gweru.,Domestic Dispute Escalation,1,3,10,9,11,6
+2024-09-22,Drug Possession,Gweru,-19.45,29.8167,Open,Drug Possession reported in gweru.,Method Unspecified,6,9,16,5,11,9
+2024-08-08,Corruption,Masvingo,-20.0637,30.8277,Open,Corruption reported in masvingo.,Police/Municipal Official Extortion,3,8,12,3,24,13
+2024-03-08,Smuggling,Masvingo,-20.0637,30.8277,Closed,Smuggling reported in masvingo.,Border Post Bypass (Official Corruption),4,3,1,12,24,3
+2024-01-18,Kidnapping,Hwange,-18.3667,26.5,Open,Kidnapping reported in hwange.,Method Unspecified,3,1,1,8,15,9
+2024-01-29,Assault,Mutare,-18.975,32.67,Closed,Assault reported in mutare.,Bar Fight / Alcohol Induced,0,1,8,1,25,2
+2024-03-18,Bribery,Masvingo,-20.0637,30.8277,Open,Bribery reported in masvingo.,Police/Municipal Official Extortion,0,3,17,2,24,13
+2024-08-17,Vandalism,Gweru,-19.45,29.8167,Under Investigation,Vandalism reported in gweru.,Political Graffiti / Public Property Damage,5,8,15,15,11,14
+2024-02-02,Smuggling,Masvingo,-20.0637,30.8277,Open,Smuggling reported in masvingo.,Border Post Bypass (Official Corruption),4,2,3,12,24,3
+2024-05-09,Kidnapping,Hwange,-18.3667,26.5,Open,Kidnapping reported in hwange.,Method Unspecified,3,5,14,8,15,9
+2024-07-21,Corruption,Gweru,-19.45,29.8167,Closed,Corruption reported in gweru.,Police/Municipal Official Extortion,6,7,13,3,11,13
+2024-03-31,Bribery,Chitungwiza,-18.0127,31.0756,Open,Bribery reported in chitungwiza.,Police/Municipal Official Extortion,6,3,11,2,9,13
+2024-04-25,Vandalism,Gweru,-19.45,29.8167,Open,Vandalism reported in gweru.,Political Graffiti / Public Property Damage,3,4,13,15,11,14
+2024-07-27,Kidnapping,Masvingo,-20.0637,30.8277,Under Investigation,Kidnapping reported in masvingo.,Method Unspecified,5,7,10,8,24,9
+2024-09-28,Kidnapping,Kwekwe,-18.9167,29.8167,Under Investigation,Kidnapping reported in kwezwe.,Method Unspecified,5,9,18,8,19,9
+2024-03-06,Vandalism,Harare Central,-17.825,31.053,Closed,Vandalism reported in harare central.,Political Graffiti / Public Property Damage,2,3,12,15,14,14
+2024-04-21,Kidnapping,Hwange,-18.3667,26.5,Under Investigation,Kidnapping reported in hwange.,Method Unspecified,6,4,21,8,15,9
+2024-08-11,Assault,Marondera,-18.1853,31.5514,Open,Assault reported in marondera.,Bar Fight / Alcohol Induced,6,8,5,1,23,2
+2024-04-24,Bribery,Chinhoyi,-17.3667,30.2,Closed,Bribery reported in chinhoyi.,Police/Municipal Official Extortion,2,4,23,2,8,13
+2024-04-27,Assault,Victoria Falls,-17.9333,25.8333,Under Investigation,Assault reported in victoria falls.,Bar Fight / Alcohol Induced,5,4,11,1,27,2
+2024-05-08,Drug Possession,Hwange,-18.3667,26.5,Under Investigation,Drug Possession reported in hwange.,Method Unspecified,2,5,7,5,15,9
+2024-07-25,Arson,Hwange,-18.3667,26.5,Open,Arson reported in hwange.,Business Dispute / Insurance Fraud,3,7,11,0,15,4
+2024-09-19,Theft,Gweru,-19.45,29.8167,Open,Theft reported in gweru.,Theft of Auto Spares / Copper,3,9,4,14,11,18
+2024-04-23,Fraud,Kwekwe,-18.9167,29.8167,Closed,Fraud reported in kwekwe.,Internet Phishing/Mobile Money Scam,1,4,1,6,19,7
+2024-01-01,Robbery,Mutare,-18.975,32.67,Closed,Robbery reported in mutare.,Machete Attack / Panga Robbery,0,1,7,11,25,8
+2024-10-10,Robbery,Chitungwiza,-18.0127,31.0756,Under Investigation,Robbery reported in chitungwiza.,"Armed, Targeting Cash Transit",3,10,9,11,9,1
+2024-09-14,Cybercrime,Zvishavane,-20.3333,30.0667,Under Investigation,Cybercrime reported in zvishavane.,Internet Phishing/Mobile Money Scam,5,9,15,4,29,7
+2024-07-22,Rape,Bulawayo CBD,-20.1508,28.5795,Open,Rape reported in bulawayo cbd.,Stranger Assault / Predatory,0,7,10,10,5,17
+2024-01-09,Stock Theft,Zvishavane,-20.3333,30.0667,Closed,Stock Theft reported in zvishavane.,Night-time Farm Raid,1,1,19,13,29,10
+2024-08-09,Assault,Chitungwiza,-18.0127,31.0756,Closed,Assault reported in chitungwiza.,Bar Fight / Alcohol Induced,4,8,5,1,9,2
+2024-07-10,Corruption,Chitungwiza,-18.0127,31.0756,Open,Corruption reported in chitungwiza.,Police/Municipal Official Extortion,2,7,21,3,9,13
+2024-02-29,Housebreaking,Marondera,-18.1853,31.5514,Open,Housebreaking reported in marondera.,Night-time Forced Entry (Residential),3,2,23,7,23,11
+2024-07-07,Bribery,Kwekwe,-18.9167,29.8167,Under Investigation,Bribery reported in kwezwe.,Police/Municipal Official Extortion,6,7,22,2,19,13
+2024-09-13,Smuggling,Marondera,-18.1853,31.5514,Open,Smuggling reported in marondera.,Border Post Bypass (Official Corruption),4,9,4,12,23,3
+2024-09-20,Assault,Victoria Falls,-17.9333,25.8333,Closed,Assault reported in victoria falls.,Bar Fight / Alcohol Induced,4,9,9,1,27,2
+2024-05-03,Theft,Harare Central,-17.825,31.053,Under Investigation,Theft reported in harare central.,Theft of Auto Spares / Copper,4,5,5,14,14,18
+2024-06-24,Assault,Zvishavane,-20.3333,30.0667,Closed,Assault reported in zvishavane.,Bar Fight / Alcohol Induced,0,6,2,1,29,2
+2024-10-03,Kidnapping,Kwekwe,-18.9167,29.8167,Open,Kidnapping reported in kwezwe.,Method Unspecified,3,10,0,8,19,9
+2024-04-21,Assault,Beitbridge,-22.2167,30.0,Under Investigation,Assault reported in beitbridge.,Bar Fight / Alcohol Induced,6,4,4,1,3,2
+2024-07-04,Cybercrime,Chinhoyi,-17.3667,30.2,Open,Cybercrime reported in chinhoyi.,Internet Phishing/Mobile Money Scam,3,7,20,4,8,7
+2024-10-25,Smuggling,Hwange,-18.3667,26.5,Closed,Smuggling reported in hwange.,Border Post Bypass (Official Corruption),4,10,15,12,15,3
+2024-06-24,Corruption,Kwekwe,-18.9167,29.8167,Closed,Corruption reported in kwezwe.,Police/Municipal Official Extortion,0,6,5,3,19,13
+2024-08-23,Arson,Victoria Falls,-17.9333,25.8333,Open,Arson reported in victoria falls.,Business Dispute / Insurance Fraud,4,8,7,0,27,4
+2024-09-10,Corruption,Beitbridge,-22.2167,30.0,Under Investigation,Corruption reported in beitbridge.,Police/Municipal Official Extortion,1,9,1,3,3,13
+2024-06-18,Drug Possession,Beitbridge,-22.2167,30.0,Closed,Drug Possession reported in beitbridge.,Method Unspecified,1,6,22,5,3,9
+2024-07-10,Smuggling,Kwekwe,-18.9167,29.8167,Under Investigation,Smuggling reported in kwezwe.,Border Post Bypass (Official Corruption),2,7,10,12,19,3
+2024-02-15,Bribery,Beitbridge,-22.2167,30.0,Open,Bribery reported in beitbridge.,Police/Municipal Official Extortion,3,2,10,2,3,13
+2024-04-10,Stock Theft,Kadoma,-18.3333,29.9167,Open,Stock Theft reported in kadoma.,Night-time Farm Raid,2,4,13,13,18,10
+2024-10-14,Robbery,Harare Central,-17.825,31.053,Under Investigation,Robbery reported in harare central.,"Armed, Targeting Cash Transit",0,10,9,11,14,1
+2024-05-06,Theft,Masvingo,-20.0637,30.8277,Open,Theft reported in masvingo.,Theft of Auto Spares / Copper,0,5,23,14,24,18
+2024-10-20,Smuggling,Kadoma,-18.3333,29.9167,Under Investigation,Smuggling reported in kadoma.,Border Post Bypass (Official Corruption),6,10,16,12,18,3
+2024-03-10,Kidnapping,Masvingo,-20.0637,30.8277,Closed,Kidnapping reported in masvingo.,Method Unspecified,6,3,3,8,24,9
+2024-02-12,Murder,Mutare,-18.975,32.67,Closed,Murder reported in mutare.,Domestic Dispute Escalation,0,2,23,9,25,6
+2024-06-26,Theft,Harare Central,-17.825,31.053,Closed,Theft reported in harare central.,Theft of Auto Spares / Copper,2,6,18,14,14,18
+2024-07-03,Cybercrime,Kadoma,-18.3333,29.9167,Open,Cybercrime reported in kadoma.,Internet Phishing/Mobile Money Scam,2,7,12,4,18,7
+2024-04-20,Arson,Chinhoyi,-17.3667,30.2,Under Investigation,Arson reported in chinhoyi.,Business Dispute / Insurance Fraud,5,4,6,0,8,4
+2024-05-25,Bribery,Bulawayo CBD,-20.1508,28.5795,Closed,Bribery reported in bulawayo cbd.,Police/Municipal Official Extortion,5,5,22,2,5,13
+2024-01-23,Assault,Zvishavane,-20.3333,30.0667,Closed,Assault reported in zvishavane.,Bar Fight / Alcohol Induced,1,1,6,1,29,2
+2024-10-17,Theft,Victoria Falls,-17.9333,25.8333,Under Investigation,Theft reported in victoria falls.,Pickpocketing in Crowded Area,3,10,0,14,27,12
+2024-03-18,Smuggling,Bulawayo CBD,-20.1508,28.5795,Open,Smuggling reported in bulawayo cbd.,Border Post Bypass (Official Corruption),0,3,16,12,5,3
+2024-06-22,Corruption,Victoria Falls,-17.9333,25.8333,Closed,Corruption reported in victoria falls.,Police/Municipal Official Extortion,5,6,8,3,27,13
+2024-10-22,Assault,Bulawayo CBD,-20.1508,28.5795,Closed,Assault reported in bulawayo cbd.,Bar Fight / Alcohol Induced,1,10,20,1,5,2
+2024-08-05,Kidnapping,Gweru,-19.45,29.8167,Open,Kidnapping reported in gweru.,Method Unspecified,0,8,4,8,11,9
+2024-04-26,Robbery,Mutare,-18.975,32.67,Closed,Robbery reported in mutare.,Machete Attack / Panga Robbery,4,4,22,11,25,8
+2024-06-16,Bribery,Hwange,-18.3667,26.5,Closed,Bribery reported in hwange.,Police/Municipal Official Extortion,6,6,17,2,15,13
+2024-10-07,Housebreaking,Chitungwiza,-18.0127,31.0756,Open,Housebreaking reported in chitungwiza.,Night-time Forced Entry (Residential),0,10,7,7,9,11
+2024-10-09,Arson,Beitbridge,-22.2167,30.0,Closed,Arson reported in beitbridge.,Business Dispute / Insurance Fraud,2,10,10,0,3,4
+2024-02-21,Bribery,Beitbridge,-22.2167,30.0,Under Investigation,Bribery reported in beitbridge.,Police/Municipal Official Extortion,2,2,12,2,3,13
+2024-02-13,Drug Possession,Marondera,-18.1853,31.5514,Open,Drug Possession reported in marondera.,Method Unspecified,1,2,0,5,23,9
+2024-03-13,Kidnapping,Zvishavane,-20.3333,30.0667,Under Investigation,Kidnapping reported in zvishavane.,Method Unspecified,2,3,20,8,29,9
+2024-10-26,Fraud,Gweru,-19.45,29.8167,Closed,Fraud reported in gweru.,Internet Phishing/Mobile Money Scam,5,10,0,6,11,7
+2024-05-14,Housebreaking,Kadoma,-18.3333,29.9167,Closed,Housebreaking reported in kadoma.,Night-time Forced Entry (Residential),1,5,5,7,18,11
+2024-01-23,Stock Theft,Gweru,-19.45,29.8167,Under Investigation,Stock Theft reported in gweru.,Night-time Farm Raid,1,1,7,13,11,10
+2024-10-21,Bribery,Chitungwiza,-18.0127,31.0756,Closed,Bribery reported in chitungwiza.,Police/Municipal Official Extortion,0,10,17,2,9,13
+2024-07-13,Arson,Gweru,-19.45,29.8167,Under Investigation,Arson reported in gweru.,Business Dispute / Insurance Fraud,5,7,6,0,11,4
+2024-05-14,Rape,Victoria Falls,-17.9333,25.8333,Under Investigation,Rape reported in victoria falls.,Stranger Assault / Predatory,1,5,8,10,27,17
+2024-02-03,Arson,Kwekwe,-18.9167,29.8167,Open,Arson reported in kwezwe.,Business Dispute / Insurance Fraud,5,2,16,0,19,4
+2024-01-15,Kidnapping,Gweru,-19.45,29.8167,Under Investigation,Kidnapping reported in gweru.,Method Unspecified,0,1,19,8,11,9
+2024-07-22,Rape,Beitbridge,-22.2167,30.0,Closed,Rape reported in beitbridge.,Stranger Assault / Predatory,0,7,3,10,3,17
+2024-03-13,Cybercrime,Harare Central,-17.825,31.053,Open,Cybercrime reported in harare central.,Internet Phishing/Mobile Money Scam,2,3,21,4,14,7
+2024-10-01,Housebreaking,Chinhoyi,-17.3667,30.2,Open,Housebreaking reported in chinhoyi.,Night-time Forced Entry (Residential),1,10,20,7,8,11
+2024-10-01,Kidnapping,Gweru,-19.45,29.8167,Closed,Kidnapping reported in gweru.,Method Unspecified,1,10,2,8,11,9
+2024-04-29,Murder,Gweru,-19.45,29.8167,Closed,Murder reported in gweru.,Domestic Dispute Escalation,0,4,22,9,11,6
+2024-09-12,Murder,Gweru,-19.45,29.8167,Open,Murder reported in gweru.,Ritualistic Crime,3,9,6,9,11,15
+2024-10-16,Robbery,Masvingo,-20.0637,30.8277,Closed,Robbery reported in masvingo.,Machete Attack / Panga Robbery,2,10,3,11,24,8
+2024-04-06,Rape,Kadoma,-18.3333,29.9167,Under Investigation,Rape reported in kadoma.,Stranger Assault / Predatory,5,4,23,10,18,17
+2024-07-23,Murder,Chinhoyi,-17.3667,30.2,Open,Murder reported in chinhoyi.,Domestic Dispute Escalation,1,7,14,9,8,6
+2024-10-09,Robbery,Hwange,-18.3667,26.5,Under Investigation,Robbery reported in hwange.,Machete Attack / Panga Robbery,2,10,16,11,15,8
+2024-10-02,Rape,Victoria Falls,-17.9333,25.8333,Closed,Rape reported in victoria falls.,Acquaintance Rape,2,10,18,10,27,0
+2024-04-20,Corruption,Zvishavane,-20.3333,30.0667,Closed,Corruption reported in zvishavane.,Police/Municipal Official Extortion,5,4,18,3,29,13
+2024-03-18,Murder,Hwange,-18.3667,26.5,Under Investigation,Murder reported in hwange.,Ritualistic Crime,0,3,22,9,15,15
+2024-02-27,Bribery,Masvingo,-20.0637,30.8277,Closed,Bribery reported in masvingo.,Police/Municipal Official Extortion,1,2,20,2,24,13
+2024-09-22,Kidnapping,Kwekwe,-18.9167,29.8167,Closed,Kidnapping reported in kwezwe.,Method Unspecified,6,9,11,8,19,9
+2024-08-26,Drug Possession,Masvingo,-20.0637,30.8277,Under Investigation,Drug Possession reported in masvingo.,Method Unspecified,0,8,3,5,24,9
+2024-04-05,Fraud,Harare Central,-17.825,31.053,Closed,Fraud reported in harare central.,Internet Phishing/Mobile Money Scam,4,4,15,6,14,7
+2024-06-24,Fraud,Chitungwiza,-18.0127,31.0756,Closed,Fraud reported in chitungwiza.,Internet Phishing/Mobile Money Scam,0,6,18,6,9,7
+2024-04-16,Drug Possession,Gweru,-19.45,29.8167,Under Investigation,Drug Possession reported in gweru.,Method Unspecified,1,4,12,5,11,9
+2024-03-29,Corruption,Kwekwe,-18.9167,29.8167,Under Investigation,Corruption reported in kwezwe.,Police/Municipal Official Extortion,4,3,10,3,19,13
+2024-09-26,Rape,Chinhoyi,-17.3667,30.2,Under Investigation,Rape reported in chinhoyi.,Stranger Assault / Predatory,3,9,1,10,8,17
+2024-06-28,Rape,Hwange,-18.3667,26.5,Closed,Rape reported in hwange.,Acquaintance Rape,4,6,10,10,15,0
+2024-06-04,Fraud,Chinhoyi,-17.3667,30.2,Closed,Fraud reported in chinhoyi.,Internet Phishing/Mobile Money Scam,1,6,2,6,8,7
+2024-07-22,Drug Possession,Hwange,-18.3667,26.5,Under Investigation,Drug Possession reported in hwange.,Method Unspecified,0,7,1,5,15,9
+2024-05-04,Murder,Chinhoyi,-17.3667,30.2,Closed,Murder reported in chinhoyi.,Domestic Dispute Escalation,5,5,12,9,8,6
+2024-02-22,Smuggling,Hwange,-18.3667,26.5,Closed,Smuggling reported in hwange.,Border Post Bypass (Official Corruption),3,2,18,12,15,3
+2024-01-11,Theft,Bindura,-17.3019,31.3306,Under Investigation,Theft reported in bindura.,Theft of Auto Spares / Copper,3,1,23,14,4,18
+2024-04-28,Murder,Zvishavane,-20.3333,30.0667,Closed,Murder reported in zvishavane.,Domestic Dispute Escalation,6,4,9,9,29,6
+2024-03-28,Stock Theft,Victoria Falls,-17.9333,25.8333,Open,Stock Theft reported in victoria falls.,Cross-Border Smuggling,3,3,19,13,27,5
+2024-05-14,Murder,Harare Central,-17.825,31.053,Under Investigation,Murder reported in harare central.,Domestic Dispute Escalation,1,5,6,9,14,6
+2024-06-12,Drug Possession,Hwange,-18.3667,26.5,Open,Drug Possession reported in hwange.,Method Unspecified,2,6,9,5,15,9
+2024-03-06,Corruption,Chitungwiza,-18.0127,31.0756,Closed,Corruption reported in chitungwiza.,Police/Municipal Official Extortion,2,3,2,3,9,13
+2024-06-19,Theft,Mutare,-18.975,32.67,Open,Theft reported in mutare.,Theft of Auto Spares / Copper,2,6,16,14,25,18
+2024-07-25,Fraud,Harare Central,-17.825,31.053,Open,Fraud reported in harare central.,Internet Phishing/Mobile Money Scam,3,7,10,6,14,7
+2024-07-08,Murder,Bindura,-17.3019,31.3306,Open,Murder reported in bindura.,Ritualistic Crime,0,7,7,9,4,15
+2024-10-08,Smuggling,Chitungwiza,-18.0127,31.0756,Open,Smuggling reported in chitungwiza.,Border Post Bypass (Official Corruption),1,10,18,12,9,3
+2024-06-30,Arson,Hwange,-18.3667,26.5,Open,Arson reported in hwange.,Business Dispute / Insurance Fraud,6,6,18,0,15,4
+2024-01-10,Fraud,Harare Central,-17.825,31.053,Closed,Fraud reported in harare central.,Internet Phishing/Mobile Money Scam,2,1,9,6,14,7
+2024-05-15,Housebreaking,Chinhoyi,-17.3667,30.2,Closed,Housebreaking reported in chinhoyi.,Night-time Forced Entry (Residential),2,5,8,7,8,11
+2024-09-28,Corruption,Zvishavane,-20.3333,30.0667,Under Investigation,Corruption reported in zvishavane.,Police/Municipal Official Extortion,5,9,9,3,29,13
+2024-04-10,Fraud,Victoria Falls,-17.9333,25.8333,Under Investigation,Fraud reported in victoria falls.,Internet Phishing/Mobile Money Scam,2,4,19,6,27,7
+2024-07-24,Drug Possession,Chinhoyi,-17.3667,30.2,Closed,Drug Possession reported in chinhoyi.,Method Unspecified,2,7,20,5,8,9
+2024-10-16,Bribery,Marondera,-18.1853,31.5514,Closed,Bribery reported in marondera.,Police/Municipal Official Extortion,2,10,6,2,23,13
+2024-04-17,Fraud,Victoria Falls,-17.9333,25.8333,Open,Fraud reported in victoria falls.,Internet Phishing/Mobile Money Scam,2,4,7,6,27,7
+2024-06-25,Rape,Kadoma,-18.3333,29.9167,Closed,Rape reported in kadoma.,Stranger Assault / Predatory,1,6,14,10,18,17
+2024-07-31,Smuggling,Masvingo,-20.0637,30.8277,Open,Smuggling reported in masvingo.,Border Post Bypass (Official Corruption),2,7,5,12,24,3
+2024-05-23,Vandalism,Masvingo,-20.0637,30.8277,Under Investigation,Vandalism reported in masvingo.,Political Graffiti / Public Property Damage,3,5,14,15,24,14
+2024-07-05,Housebreaking,Marondera,-18.1853,31.5514,Under Investigation,Housebreaking reported in marondera.,Night-time Forced Entry (Residential),4,7,1,7,23,11
+2024-08-03,Bribery,Hwange,-18.3667,26.5,Closed,Bribery reported in hwange.,Police/Municipal Official Extortion,5,8,1,2,15,13
+2024-02-18,Robbery,Gweru,-19.45,29.8167,Under Investigation,Robbery reported in gweru.,Machete Attack / Panga Robbery,6,2,10,11,11,8
+2024-01-09,Housebreaking,Mutare,-18.975,32.67,Under Investigation,Housebreaking reported in mutare.,Night-time Forced Entry (Residential),1,1,16,7,25,11
+2024-02-24,Kidnapping,Hwange,-18.3667,26.5,Open,Kidnapping reported in hwange.,Method Unspecified,5,2,14,8,15,9
+2024-04-17,Kidnapping,Hwange,-18.3667,26.5,Open,Kidnapping reported in hwange.,Method Unspecified,2,4,23,8,15,9
+2024-07-08,Rape,Gweru,-19.45,29.8167,Closed,Rape reported in gweru.,Acquaintance Rape,0,7,7,10,11,0
+2024-01-20,Rape,Hwange,-18.3667,26.5,Open,Rape reported in hwange.,Stranger Assault / Predatory,5,1,20,10,15,17
+2024-01-28,Bribery,Beitbridge,-22.2167,30.0,Under Investigation,Bribery reported in beitbridge.,Police/Municipal Official Extortion,6,1,6,2,3,13
+2024-05-04,Fraud,Marondera,-18.1853,31.5514,Closed,Fraud reported in marondera.,Internet Phishing/Mobile Money Scam,5,5,22,6,23,7
+2024-07-29,Bribery,Mutare,-18.975,32.67,Closed,Bribery reported in mutare.,Police/Municipal Official Extortion,0,7,7,2,25,13
+2024-01-22,Assault,Harare Central,-17.825,31.053,Closed,Assault reported in harare central.,Bar Fight / Alcohol Induced,0,1,5,1,14,2
+2024-02-21,Fraud,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Fraud reported in bulawayo cbd.,Internet Phishing/Mobile Money Scam,2,2,8,6,5,7
+2024-02-05,Smuggling,Kadoma,-18.3333,29.9167,Open,Smuggling reported in kadoma.,Border Post Bypass (Official Corruption),0,2,22,12,18,3
+2024-04-01,Smuggling,Marondera,-18.1853,31.5514,Open,Smuggling reported in marondera.,Border Post Bypass (Official Corruption),0,4,6,12,23,3
+2024-10-04,Vandalism,Chinhoyi,-17.3667,30.2,Under Investigation,Vandalism reported in chinhoyi.,Political Graffiti / Public Property Damage,4,10,2,15,8,14
+2024-05-27,Corruption,Zvishavane,-20.3333,30.0667,Closed,Corruption reported in zvishavane.,Police/Municipal Official Extortion,0,5,17,3,29,13
+2024-07-10,Assault,Victoria Falls,-17.9333,25.8333,Under Investigation,Assault reported in victoria falls.,Bar Fight / Alcohol Induced,2,7,17,1,27,2
+2024-05-28,Cybercrime,Bulawayo CBD,-20.1508,28.5795,Open,Cybercrime reported in bulawayo cbd.,Internet Phishing/Mobile Money Scam,1,5,6,4,5,7
+2024-04-12,Stock Theft,Zvishavane,-20.3333,30.0667,Under Investigation,Stock Theft reported in zvishavane.,Night-time Farm Raid,4,4,21,13,29,10
+2024-08-21,Assault,Kwekwe,-18.9167,29.8167,Closed,Assault reported in kwezwe.,Bar Fight / Alcohol Induced,2,8,17,1,19,2
+2024-06-19,Murder,Zvishavane,-20.3333,30.0667,Closed,Murder reported in zvishavane.,Domestic Dispute Escalation,2,6,5,9,29,6
+2024-03-31,Robbery,Kadoma,-18.3333,29.9167,Open,Robbery reported in kadoma.,Machete Attack / Panga Robbery,6,3,22,11,18,8
+2024-10-09,Corruption,Hwange,-18.3667,26.5,Open,Corruption reported in hwange.,Police/Municipal Official Extortion,2,10,11,3,15,13
+2024-04-04,Smuggling,Gweru,-19.45,29.8167,Closed,Smuggling reported in gweru.,Border Post Bypass (Official Corruption),3,4,13,12,11,3
+2024-03-10,Drug Possession,Chinhoyi,-17.3667,30.2,Under Investigation,Drug Possession reported in chinhoyi.,Method Unspecified,6,3,14,5,8,9
+2024-08-23,Vandalism,Beitbridge,-22.2167,30.0,Open,Vandalism reported in beitbridge.,Political Graffiti / Public Property Damage,4,8,11,15,3,14
+2024-04-01,Rape,Beitbridge,-22.2167,30.0,Open,Rape reported in beitbridge.,Acquaintance Rape,0,4,14,10,3,0
+2024-08-01,Vandalism,Chitungwiza,-18.0127,31.0756,Under Investigation,Vandalism reported in chitungwiza.,Political Graffiti / Public Property Damage,3,8,22,15,9,14
+2024-05-16,Arson,Kadoma,-18.3333,29.9167,Open,Arson reported in kadoma.,Business Dispute / Insurance Fraud,3,5,11,0,18,4
+2024-04-12,Robbery,Beitbridge,-22.2167,30.0,Open,Robbery reported in beitbridge.,Machete Attack / Panga Robbery,4,4,16,11,3,8
+2024-05-02,Bribery,Chitungwiza,-18.0127,31.0756,Open,Bribery reported in chitungwiza.,Police/Municipal Official Extortion,3,5,2,2,9,13
+2024-03-31,Stock Theft,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Stock Theft reported in bulawayo cbd.,Night-time Farm Raid,6,3,22,13,5,10
+2024-01-06,Housebreaking,Victoria Falls,-17.9333,25.8333,Open,Housebreaking reported in victoria falls.,Night-time Forced Entry (Residential),5,1,7,7,27,11
+2024-01-07,Robbery,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Robbery reported in bulawayo cbd.,"Armed, Targeting Cash Transit",6,1,7,11,5,1
+2024-06-19,Drug Possession,Victoria Falls,-17.9333,25.8333,Open,Drug Possession reported in victoria falls.,Method Unspecified,2,6,10,5,27,9
+2024-03-16,Drug Possession,Hwange,-18.3667,26.5,Open,Drug Possession reported in hwange.,Method Unspecified,5,3,3,5,15,9
+2024-04-11,Murder,Chinhoyi,-17.3667,30.2,Closed,Murder reported in chinhoyi.,Domestic Dispute Escalation,3,4,19,9,8,6
+2024-04-15,Arson,Chitungwiza,-18.0127,31.0756,Open,Arson reported in chitungwiza.,Business Dispute / Insurance Fraud,0,4,17,0,9,4
+2024-04-07,Cybercrime,Masvingo,-20.0637,30.8277,Under Investigation,Cybercrime reported in masvingo.,Internet Phishing/Mobile Money Scam,6,4,20,4,24,7
+2024-04-26,Robbery,Gweru,-19.45,29.8167,Open,Robbery reported in gweru.,Machete Attack / Panga Robbery,4,4,14,11,11,8
+2024-10-13,Rape,Gweru,-19.45,29.8167,Open,Rape reported in gweru.,Acquaintance Rape,6,10,15,10,11,0
+2024-05-23,Vandalism,Chinhoyi,-17.3667,30.2,Open,Vandalism reported in chinhoyi.,Political Graffiti / Public Property Damage,3,5,15,15,8,14
+2024-03-05,Smuggling,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Smuggling reported in bulawayo cbd.,Border Post Bypass (Official Corruption),1,3,14,12,5,3
+2024-08-04,Vandalism,Bindura,-17.3019,31.3306,Under Investigation,Vandalism reported in bindura.,Political Graffiti / Public Property Damage,6,8,19,15,4,14
+2024-05-05,Rape,Chitungwiza,-18.0127,31.0756,Under Investigation,Rape reported in chitungwiza.,Acquaintance Rape,6,5,13,10,9,0
+2024-03-02,Robbery,Mutare,-18.975,32.67,Under Investigation,Robbery reported in mutare.,Machete Attack / Panga Robbery,5,3,10,11,25,8
+2024-01-18,Fraud,Mutare,-18.975,32.67,Under Investigation,Fraud reported in mutare.,Internet Phishing/Mobile Money Scam,3,1,9,6,25,7
+2024-09-05,Robbery,Chinhoyi,-17.3667,30.2,Under Investigation,Robbery reported in chinhoyi.,Machete Attack / Panga Robbery,3,9,15,11,8,8
+2024-06-10,Cybercrime,Marondera,-18.1853,31.5514,Closed,Cybercrime reported in marondera.,Internet Phishing/Mobile Money Scam,0,6,13,4,23,7
+2024-05-03,Rape,Gweru,-19.45,29.8167,Closed,Rape reported in gweru.,Acquaintance Rape,4,5,18,10,11,0
+2024-10-05,Vandalism,Chitungwiza,-18.0127,31.0756,Under Investigation,Vandalism reported in chitungwiza.,Political Graffiti / Public Property Damage,5,10,14,15,9,14
+2024-09-18,Smuggling,Chinhoyi,-17.3667,30.2,Open,Smuggling reported in chinhoyi.,Border Post Bypass (Official Corruption),2,9,6,12,8,3
+2024-07-18,Housebreaking,Hwange,-18.3667,26.5,Under Investigation,Housebreaking reported in hwange.,Night-time Forced Entry (Residential),3,7,9,7,15,11
+2024-02-27,Smuggling,Gweru,-19.45,29.8167,Open,Smuggling reported in gweru.,Border Post Bypass (Official Corruption),1,2,5,12,11,3
+2024-05-25,Murder,Chinhoyi,-17.3667,30.2,Closed,Murder reported in chinhoyi.,Domestic Dispute Escalation,5,5,19,9,8,6
+2024-04-15,Murder,Chinhoyi,-17.3667,30.2,Under Investigation,Murder reported in chinhoyi.,Domestic Dispute Escalation,0,4,2,9,8,6
+2024-05-25,Smuggling,Kadoma,-18.3333,29.9167,Closed,Smuggling reported in kadoma.,Border Post Bypass (Official Corruption),5,5,13,12,18,3
+2024-03-24,Kidnapping,Mutare,-18.975,32.67,Under Investigation,Kidnapping reported in mutare.,Method Unspecified,6,3,20,8,25,9
+2024-10-15,Fraud,Marondera,-18.1853,31.5514,Closed,Fraud reported in marondera.,Internet Phishing/Mobile Money Scam,1,10,19,6,23,7
+2024-08-06,Assault,Kadoma,-18.3333,29.9167,Closed,Assault reported in kadoma.,Bar Fight / Alcohol Induced,1,8,4,1,18,2
+2024-04-04,Bribery,Bindura,-17.3019,31.3306,Under Investigation,Bribery reported in bindura.,Police/Municipal Official Extortion,3,4,2,2,4,13
+2024-10-23,Robbery,Harare Central,-17.825,31.053,Open,Robbery reported in harare central.,"Armed, Targeting Cash Transit",2,10,5,11,14,1
+2024-09-12,Bribery,Harare Central,-17.825,31.053,Closed,Bribery reported in harare central.,Police/Municipal Official Extortion,3,9,6,2,14,13
+2024-10-25,Bribery,Harare Central,-17.825,31.053,Open,Bribery reported in harare central.,Police/Municipal Official Extortion,4,10,4,2,14,13
+2024-01-07,Cybercrime,Victoria Falls,-17.9333,25.8333,Under Investigation,Cybercrime reported in victoria falls.,Internet Phishing/Mobile Money Scam,6,1,10,4,27,7
+2024-10-08,Murder,Kwekwe,-18.9167,29.8167,Closed,Murder reported in kwezwe.,Domestic Dispute Escalation,1,10,0,9,19,6
+2024-07-24,Cybercrime,Zvishavane,-20.3333,30.0667,Open,Cybercrime reported in zvishavane.,Internet Phishing/Mobile Money Scam,2,7,13,4,29,7
+2024-02-25,Kidnapping,Masvingo,-20.0637,30.8277,Under Investigation,Kidnapping reported in masvingo.,Method Unspecified,6,2,14,8,24,9
+2024-06-23,Rape,Harare Central,-17.825,31.053,Open,Rape reported in harare central.,Acquaintance Rape,6,6,16,10,14,0
+2024-05-21,Fraud,Victoria Falls,-17.9333,25.8333,Open,Fraud reported in victoria falls.,Internet Phishing/Mobile Money Scam,1,5,12,6,27,7
+2024-07-29,Housebreaking,Gweru,-19.45,29.8167,Open,Housebreaking reported in gweru.,Night-time Forced Entry (Residential),0,7,2,7,11,11
+2024-01-11,Fraud,Victoria Falls,-17.9333,25.8333,Open,Fraud reported in victoria falls.,Internet Phishing/Mobile Money Scam,3,1,0,6,27,7
+2024-02-25,Assault,Chitungwiza,-18.0127,31.0756,Under Investigation,Assault reported in chitungwiza.,Bar Fight / Alcohol Induced,6,2,2,1,9,2
+2024-02-01,Housebreaking,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Housebreaking reported in bulawayo cbd.,Smash-and-Grab Commercial,3,2,5,7,5,16
+2024-07-24,Fraud,Kwekwe,-18.9167,29.8167,Under Investigation,Fraud reported in kwezwe.,Internet Phishing/Mobile Money Scam,2,7,15,6,19,7
+2024-01-11,Rape,Bindura,-17.3019,31.3306,Closed,Rape reported in bindura.,Stranger Assault / Predatory,3,1,8,10,4,17
+2024-07-17,Drug Possession,Kwekwe,-18.9167,29.8167,Under Investigation,Drug Possession reported in kwezwe.,Method Unspecified,2,7,16,5,19,9
+2024-08-04,Fraud,Kwekwe,-18.9167,29.8167,Open,Fraud reported in kwezwe.,Internet Phishing/Mobile Money Scam,6,8,19,6,19,7
+2024-10-07,Drug Possession,Gweru,-19.45,29.8167,Open,Drug Possession reported in gweru.,Method Unspecified,0,10,4,5,11,9
+2024-02-08,Drug Possession,Beitbridge,-22.2167,30.0,Under Investigation,Drug Possession reported in beitbridge.,Method Unspecified,3,2,2,5,3,9
+2024-10-03,Vandalism,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Vandalism reported in bulawayo cbd.,Political Graffiti / Public Property Damage,3,10,5,15,5,14
+2024-02-10,Corruption,Hwange,-18.3667,26.5,Open,Corruption reported in hwange.,Police/Municipal Official Extortion,5,2,23,3,15,13
+2024-02-23,Rape,Marondera,-18.1853,31.5514,Under Investigation,Rape reported in marondera.,Acquaintance Rape,4,2,10,10,23,0
+2024-09-15,Arson,Zvishavane,-20.3333,30.0667,Closed,Arson reported in zvishavane.,Business Dispute / Insurance Fraud,6,9,8,0,29,4
+2024-10-01,Assault,Hwange,-18.3667,26.5,Open,Assault reported in hwange.,Bar Fight / Alcohol Induced,1,10,7,1,15,2
+2024-08-21,Rape,Bindura,-17.3019,31.3306,Closed,Rape reported in bindura.,Stranger Assault / Predatory,2,8,8,10,4,17
+2024-05-06,Murder,Zvishavane,-20.3333,30.0667,Closed,Murder reported in zvishavane.,Domestic Dispute Escalation,0,5,15,9,29,6
+2024-08-15,Drug Possession,Beitbridge,-22.2167,30.0,Open,Drug Possession reported in beitbridge.,Method Unspecified,3,8,12,5,3,9
+2024-05-24,Bribery,Marondera,-18.1853,31.5514,Open,Bribery reported in marondera.,Police/Municipal Official Extortion,4,5,1,2,23,13
+2024-06-22,Fraud,Chinhoyi,-17.3667,30.2,Under Investigation,Fraud reported in chinhoyi.,Internet Phishing/Mobile Money Scam,5,6,18,6,8,7
+2024-01-13,Assault,Victoria Falls,-17.9333,25.8333,Open,Assault reported in victoria falls.,Bar Fight / Alcohol Induced,5,1,2,1,27,2
+2024-02-15,Assault,Chinhoyi,-17.3667,30.2,Under Investigation,Assault reported in chinhoyi.,Bar Fight / Alcohol Induced,3,2,8,1,8,2
+2024-07-09,Vandalism,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Vandalism reported in bulawayo cbd.,Political Graffiti / Public Property Damage,1,7,23,15,5,14
+2024-04-28,Murder,Kadoma,-18.3333,29.9167,Closed,Murder reported in kadoma.,Domestic Dispute Escalation,6,4,17,9,18,6
+2024-08-02,Stock Theft,Zvishavane,-20.3333,30.0667,Closed,Stock Theft reported in zvishavane.,Night-time Farm Raid,4,8,18,13,29,10
+2024-01-31,Robbery,Gweru,-19.45,29.8167,Under Investigation,Robbery reported in gweru.,Machete Attack / Panga Robbery,2,1,11,11,11,8
+2024-02-05,Corruption,Zvishavane,-20.3333,30.0667,Closed,Corruption reported in zvishavane.,Police/Municipal Official Extortion,0,2,1,3,29,13
+2024-01-06,Bribery,Bulawayo CBD,-20.1508,28.5795,Under Investigation,Bribery reported in bulawayo cbd.,Police/Municipal Official Extortion,5,1,16,2,5,13
+2024-10-06,Rape,Hwange,-18.3667,26.5,Closed,Rape reported in hwange.,Acquaintance Rape,6,10,23,10,15,0
+2024-08-26,Cybercrime,Beitbridge,-22.2167,30.0,Under Investigation,Cybercrime reported in beitbridge.,Internet Phishing/Mobile Money Scam,0,8,15,4,3,7
+2024-09-24,Rape,Victoria Falls,-17.9333,25.8333,Under Investigation,Rape reported in victoria falls.,Stranger Assault / Predatory,1,9,10,10,27,17
+2024-09-23,Corruption,Zvishavane,-20.3333,30.0667,Under Investigation,Corruption reported in zvishavane.,Police/Municipal Official Extortion,0,9,19,3,29,13
+2024-01-06,Arson,Gweru,-19.45,29.8167,Open,Arson reported in gweru.,Business Dispute / Insurance Fraud,5,1,14,0,11,4
+2024-09-23,Bribery,Bulawayo CBD,-20.1508,28.5795,Open,Bribery reported in bulawayo cbd.,Police/Municipal Official Extortion,0,9,17,2,5,13
+2024-06-09,Stock Theft,Chitungwiza,-18.0127,31.0756,Closed,Stock Theft reported in chitungwiza.,Night-time Farm Raid,6,6,16,13,9,10
+2024-01-13,Cybercrime,Mutare,-18.975,32.67,Under Investigation,Cybercrime reported in mutare.,Internet Phishing/Mobile Money Scam,5,1,22,4,25,7
+2024-05-13,Smuggling,KADOMA,-18.318733111904955,29.95055380301415,Under Investigation,Smuggling reported in Kadoma area. (Simulated),Border Post Bypass (Official Corruption),0,5,9,12,16,3
+2024-01-02,Bribery,MUTARE,-19.014452015780385,32.70398998564961,Open,Bribery reported in Mutare area. (Simulated),Police/Municipal Official Extortion,1,1,1,2,22,13
+2024-04-27,Smuggling,MASVINGO,-20.023744058319263,30.85875583116834,Closed,Smuggling reported in Masvingo area. (Simulated),Border Post Bypass (Official Corruption),5,4,14,12,21,3
+2024-01-28,Fraud,MARONDERA,-18.16757703608753,31.574206047084378,Open,Fraud reported in Marondera area. (Simulated),Internet Phishing/Mobile Money Scam,6,1,15,6,20,7
+2024-05-30,Arson,MARONDERA,-18.16387022596495,31.581691638158137,Under Investigation,Arson reported in Marondera area. (Simulated),Business Dispute / Insurance Fraud,3,5,20,0,20,4
+2024-03-11,Housebreaking,KWEKWE,-18.896451552267617,29.77598159062552,Under Investigation,Housebreaking reported in Kwekwe area. (Simulated),Night-time Forced Entry (Residential),0,3,1,7,17,11
+2024-09-12,Stock Theft,BEITBRIDGE,-22.173465038168448,29.96059445276699,Under Investigation,Stock Theft reported in Beitbridge area. (Simulated),Cross-Border Smuggling,3,9,12,13,0,5
+2024-06-14,Stock Theft,CHINHOYI,-17.392851982346645,30.16433036206199,Under Investigation,Stock Theft reported in Chinhoyi area. (Simulated),Night-time Farm Raid,4,6,20,13,6,10
+2024-03-06,Drug Possession,CHINHOYI,-17.412329110763732,30.15685691085132,Open,Drug Possession reported in Chinhoyi area. (Simulated),Method Unspecified,2,3,2,5,6,9
+2024-07-23,Housebreaking,ZVISHA,-20.314844417686466,30.05771758610304,Open,Housebreaking reported in Zvisha area. (Simulated),Night-time Forced Entry (Residential),1,7,2,7,28,11
+2024-02-19,Robbery,BINDURA,-17.301171286321225,31.351751036063927,Under Investigation,Robbery reported in Bindura area. (Simulated),Machete Attack / Panga Robbery,0,2,10,11,1,8
+2024-04-17,Kidnapping,BINDURA,-17.335210559441904,31.284152062402477,Closed,Kidnapping reported in Bindura area. (Simulated),Method Unspecified,2,4,16,8,1,9
+2024-01-16,Arson,MASVINGO,-20.016224414631846,30.875490942479612,Open,Arson reported in Masvingo area. (Simulated),Business Dispute / Insurance Fraud,1,1,7,0,21,4
+2024-04-17,Bribery,CHITUNGWIZA,-17.97531262193971,30.99409534913053,Closed,Bribery reported in Chitungwiza area. (Simulated),Police/Municipal Official Extortion,2,4,17,2,7,13
+2024-01-01,Housebreaking,MASVINGO,-20.104201842486805,30.869625969747368,Closed,Housebreaking reported in Masvingo area. (Simulated),Night-time Forced Entry (Residential),0,1,17,7,21,11
+2024-07-14,Housebreaking,HWANGE,-18.41494447862099,26.53460009980712,Open,Housebreaking reported in Hwange area. (Simulated),Night-time Forced Entry (Residential),6,7,6,7,13,11
+2024-02-24,Housebreaking,BINDURA,-17.272888471026974,31.301420949818443,Closed,Housebreaking reported in Bindura area. (Simulated),Night-time Forced Entry (Residential),5,2,12,7,1,11
+2024-08-20,Kidnapping,BULAWAYO,-20.18215032970985,28.602124875522275,Open,Kidnapping reported in Bulawayo area. (Simulated),Method Unspecified,1,8,5,8,2,9
+2024-02-19,Kidnapping,KWEKWE,-18.871999935307127,29.796502010828053,Open,Kidnapping reported in Kwekwe area. (Simulated),Method Unspecified,0,2,17,8,17,9
+2024-03-12,Vandalism,MUTARE,-19.017609629893904,32.69609772704245,Open,Vandalism reported in Mutare area. (Simulated),Political Graffiti / Public Property Damage,1,3,0,15,22,14
+2024-05-27,Stock Theft,VIC FALLS,-17.967811484462512,25.82919503790781,Open,Stock Theft reported in Vic falls area. (Simulated),Cross-Border Smuggling,0,5,13,13,26,5
+2024-09-26,Vandalism,CHINHOYI,-17.345869716631636,30.2492938813592,Under Investigation,Vandalism reported in Chinhoyi area. (Simulated),Political Graffiti / Public Property Damage,3,9,21,15,6,14
+2024-07-07,Arson,BULAWAYO,-20.12823302960805,28.6142704709901,Open,Arson reported in Bulawayo area. (Simulated),Business Dispute / Insurance Fraud,6,7,11,0,2,4
+2024-04-21,Corruption,HARARE,-17.782201782915273,31.042111058582226,Under Investigation,Corruption reported in Harare area. (Simulated),Police/Municipal Official Extortion,6,4,22,3,12,13
+2024-06-12,Assault,BULAWAYO,-20.143181267886398,28.534549908087445,Open,Assault reported in Bulawayo area. (Simulated),Bar Fight / Alcohol Induced,2,6,13,1,2,2
+2024-06-21,Smuggling,CHITUNGWIZA,-17.958082699559505,31.00178940005424,Closed,Smuggling reported in Chitungwiza area. (Simulated),Border Post Bypass (Official Corruption),4,6,6,12,7,3
+2024-03-17,Drug Possession,GWERU,-19.442543854187644,29.85059469995759,Closed,Drug Possession reported in Gweru area. (Simulated),Method Unspecified,6,3,8,5,10,9
+2024-05-03,Drug Possession,CHITUNGWIZA,-17.958020447197747,31.008500837306187,Open,Drug Possession reported in Chitungwiza area. (Simulated),Method Unspecified,4,5,0,5,7,9
+2024-09-26,Assault,BEITBRIDGE,-22.18287123374202,30.040058651956542,Closed,Assault reported in Beitbridge area. (Simulated),Bar Fight / Alcohol Induced,3,9,18,1,0,2
+2024-02-03,Stock Theft,MASVINGO,-20.065138019937034,30.803215264164745,Closed,Stock Theft reported in Masvingo area. (Simulated),Night-time Farm Raid,5,2,7,13,21,10
+2024-10-25,Assault,MASVINGO,-20.0756793375065,30.859428677458464,Under Investigation,Assault reported in Masvingo area. (Simulated),Bar Fight / Alcohol Induced,4,10,16,1,21,2
+2024-05-13,Murder,VIC FALLS,-17.971041864348887,25.84459836675534,Under Investigation,Murder reported in Vic falls area. (Simulated),Domestic Dispute Escalation,0,5,17,9,26,6
+2024-03-11,Arson,HWANGE,-18.384238615762158,26.500595768576275,Closed,Arson reported in Hwange area. (Simulated),Business Dispute / Insurance Fraud,0,3,4,0,13,4
+2024-02-24,Housebreaking,HWANGE,-18.38622992566173,26.47464872711258,Open,Housebreaking reported in Hwange area. (Simulated),Night-time Forced Entry (Residential),5,2,23,7,13,11
+2024-04-14,Kidnapping,BULAWAYO,-20.15355983102068,28.538637197455564,Open,Kidnapping reported in Bulawayo area. (Simulated),Method Unspecified,6,4,7,8,2,9
+2024-07-02,Corruption,MARONDERA,-18.218221138318537,31.53547792916214,Under Investigation,Corruption reported in Marondera area. (Simulated),Police/Municipal Official Extortion,1,7,6,3,20,13
+2024-03-13,Smuggling,HWANGE,-18.406873451594365,26.45706901554831,Under Investigation,Smuggling reported in Hwange area. (Simulated),Border Post Bypass (Official Corruption),2,3,13,12,13,3
+2024-05-03,Fraud,MUTARE,-18.99501718482559,32.67100152783216,Under Investigation,Fraud reported in Mutare area. (Simulated),Internet Phishing/Mobile Money Scam,4,5,17,6,22,7
+2024-08-04,Fraud,BULAWAYO,-20.147308652208107,28.58982326522592,Under Investigation,Fraud reported in Bulawayo area. (Simulated),Internet Phishing/Mobile Money Scam,6,8,16,6,2,7
+2024-02-14,Rape,ZVISHA,-20.379225423182778,30.07302799731103,Closed,Rape reported in Zvisha area. (Simulated),Acquaintance Rape,2,2,16,10,28,0
+2024-08-27,Stock Theft,GWERU,-19.45004359982235,29.808966494445343,Open,Stock Theft reported in Gweru area. (Simulated),Night-time Farm Raid,1,8,2,13,10,10
+2024-06-04,Arson,MASVINGO,-20.020457144643224,30.836647206969054,Closed,Arson reported in Masvingo area. (Simulated),Business Dispute / Insurance Fraud,1,6,11,0,21,4
+2024-04-24,Murder,VIC FALLS,-17.947421283345584,25.818607434697828,Under Investigation,Murder reported in Vic falls area. (Simulated),Ritualistic Crime,2,4,23,9,26,15
+2024-02-24,Murder,KADOMA,-18.30646834564409,29.89140746235135,Under Investigation,Murder reported in Kadoma area. (Simulated),Ritualistic Crime,5,2,0,9,16,15
+2024-02-08,Assault,CHITUNGWIZA,-17.967954777492036,30.999800754282717,Closed,Assault reported in Chitungwiza area. (Simulated),Bar Fight / Alcohol Induced,3,2,5,1,7,2
+2024-04-02,Murder,MARONDERA,-18.19732021332996,31.58183101039725,Under Investigation,Murder reported in Marondera area. (Simulated),Domestic Dispute Escalation,1,4,3,9,20,6
+2024-09-10,Corruption,CHITUNGWIZA,-18.032874000330917,31.01158328691915,Under Investigation,Corruption reported in Chitungwiza area. (Simulated),Police/Municipal Official Extortion,1,9,4,3,7,13
+2024-01-29,Housebreaking,KADOMA,-18.353160444156188,29.93747509517321,Closed,Housebreaking reported in Kadoma area. (Simulated),Night-time Forced Entry (Residential),0,1,3,7,16,11
+2024-07-17,Corruption,MASVINGO,-20.06024758449694,30.79276800360931,Closed,Corruption reported in Masvingo area. (Simulated),Police/Municipal Official Extortion,2,7,6,3,21,13
+2024-06-14,Smuggling,BINDURA,-17.275314902228754,31.37567735762304,Under Investigation,Smuggling reported in Bindura area. (Simulated),Border Post Bypass (Official Corruption),4,6,17,12,1,3
+2024-09-02,Fraud,HWANGE,-18.38255210988237,26.4584209104138,Closed,Fraud reported in Hwange area. (Simulated),Internet Phishing/Mobile Money Scam,0,9,5,6,13,7
+2024-03-04,Fraud,KWEKWE,-18.901670489428877,29.85185532967471,Under Investigation,Fraud reported in Kwekwe area. (Simulated),Internet Phishing/Mobile Money Scam,0,3,5,6,17,7
+2024-02-27,Robbery,HWANGE,-18.349019630706817,26.46978311046057,Under Investigation,Robbery reported in Hwange area. (Simulated),Machete Attack / Panga Robbery,1,2,2,11,13,8
+2024-03-06,Assault,KADOMA,-18.330988482656203,29.93113866314465,Closed,Assault reported in Kadoma area. (Simulated),Bar Fight / Alcohol Induced,2,3,21,1,16,2
+2024-10-28,Stock Theft,HWANGE,-18.37827557474841,26.49016667753273,Closed,Stock Theft reported in Hwange area. (Simulated),Cross-Border Smuggling,0,10,20,13,13,5
+2024-03-09,Assault,MUTARE,-18.985777771380658,32.71842572568304,Under Investigation,Assault reported in Mutare area. (Simulated),Bar Fight / Alcohol Induced,5,3,2,1,22,2
+2024-04-15,Rape,MARONDERA,-18.17707075275228,31.536090362669977,Closed,Rape reported in Marondera area. (Simulated),Stranger Assault / Predatory,0,4,2,10,20,17
+2024-03-07,Bribery,BULAWAYO,-20.1618171166904,28.62321791413537,Under Investigation,Bribery reported in Bulawayo area. (Simulated),Police/Municipal Official Extortion,3,3,16,2,2,13
+2024-07-16,Arson,CHINHOYI,-17.41399428611663,30.23263119866388,Under Investigation,Arson reported in Chinhoyi area. (Simulated),Business Dispute / Insurance Fraud,1,7,9,0,6,4
+2024-07-09,Bribery,BINDURA,-17.300772012849635,31.28206792411207,Closed,Bribery reported in Bindura area. (Simulated),Police/Municipal Official Extortion,1,7,4,2,1,13
+2024-01-21,Vandalism,HARARE,-17.845818352154527,31.05719598475131,Closed,Vandalism reported in Harare area. (Simulated),Political Graffiti / Public Property Damage,6,1,0,15,12,14
+2024-08-16,Bribery,BEITBRIDGE,-22.194090431895106,29.994133949985045,Closed,Bribery reported in Beitbridge area. (Simulated),Police/Municipal Official Extortion,4,8,21,2,0,13
+2024-10-28,Arson,MUTARE,-18.93408341558136,32.714640047738136,Open,Arson reported in Mutare area. (Simulated),Business Dispute / Insurance Fraud,0,10,3,0,22,4
+2024-02-29,Fraud,HARARE,-17.83736753867253,31.08232439024971,Under Investigation,Fraud reported in Harare area. (Simulated),Internet Phishing/Mobile Money Scam,3,2,20,6,12,7
+2024-10-05,Theft,HARARE,-17.853473251509822,31.02170025552897,Under Investigation,Theft reported in Harare area. (Simulated),Theft of Auto Spares / Copper,5,10,20,14,12,18
+2024-06-03,Kidnapping,MUTARE,-19.01146849149045,32.64752408150049,Under Investigation,Kidnapping reported in Mutare area. (Simulated),Method Unspecified,0,6,23,8,22,9
+2024-02-16,Fraud,CHINHOYI,-17.39894097011234,30.23222998664549,Under Investigation,Fraud reported in Chinhoyi area. (Simulated),Internet Phishing/Mobile Money Scam,4,2,21,6,6,7
+2024-02-18,Robbery,MARONDERA,-18.18654262357545,31.585079786612457,Under Investigation,Robbery reported in Marondera area. (Simulated),Machete Attack / Panga Robbery,6,2,18,11,20,8
+2024-02-03,Stock Theft,HARARE,-17.839776292247393,31.04598920075256,Open,Stock Theft reported in Harare area. (Simulated),Night-time Farm Raid,5,2,2,13,12,10
+2024-08-21,Fraud,MARONDERA,-18.137976161127828,31.587222901605987,Closed,Fraud reported in Marondera area. (Simulated),Internet Phishing/Mobile Money Scam,2,8,0,6,20,7
+2024-07-08,Robbery,MARONDERA,-18.193873750431894,31.59436344478492,Under Investigation,Robbery reported in Marondera area. (Simulated),Machete Attack / Panga Robbery,0,7,7,11,20,8
+2024-10-09,Smuggling,VIC FALLS,-17.94182238745919,25.836900309433663,Under Investigation,Smuggling reported in Vic falls area. (Simulated),Border Post Bypass (Official Corruption),2,10,19,12,26,3
+2024-06-21,Cybercrime,CHITUNGWIZA,-18.011162517327378,30.98800527148167,Open,Cybercrime reported in Chitungwiza area. (Simulated),Internet Phishing/Mobile Money Scam,4,6,8,4,7,7
+2024-09-21,Vandalism,BULAWAYO,-20.135833604041085,28.570590034043477,Open,Vandalism reported in Bulawayo area. (Simulated),Political Graffiti / Public Property Damage,5,9,21,15,2,14
+2024-02-14,Robbery,VIC FALLS,-17.906740205716027,25.873873681295965,Open,Robbery reported in Vic falls area. (Simulated),Machete Attack / Panga Robbery,2,2,12,11,26,8
+2024-10-28,Rape,KWEKWE,-18.964839070490505,29.78334328059614,Closed,Rape reported in Kwekwe area. (Simulated),Stranger Assault / Predatory,0,10,8,10,17,17
+2024-03-07,Murder,HWANGE,-18.334108268733544,26.526303793461707,Open,Murder reported in Hwange area. (Simulated),Domestic Dispute Escalation,3,3,13,9,13,6
+2024-03-26,Murder,CHINHOYI,-17.324082465915794,30.184125080847423,Under Investigation,Murder reported in Chinhoyi area. (Simulated),Domestic Dispute Escalation,1,3,21,9,6,6
+2024-08-16,Vandalism,CHINHOYI,-17.405904114067262,30.22132775646366,Open,Vandalism reported in Chinhoyi area. (Simulated),Political Graffiti / Public Property Damage,4,8,1,15,6,14
+2024-01-23,Cybercrime,BEITBRIDGE,-22.19139955005148,29.982859900817463,Open,Cybercrime reported in Beitbridge area. (Simulated),Internet Phishing/Mobile Money Scam,1,1,14,4,0,7
+2024-06-19,Theft,BEITBRIDGE,-22.213987155388576,30.0013855725259,Closed,Theft reported in Beitbridge area. (Simulated),Pickpocketing in Crowded Area,2,6,21,14,0,12
+2024-02-16,Corruption,MUTARE,-18.94917693828902,32.66504639334703,Under Investigation,Corruption reported in Mutare area. (Simulated),Police/Municipal Official Extortion,4,2,15,3,22,13
+2024-09-09,Vandalism,ZVISHA,-20.32115454188636,30.09338762754404,Closed,Vandalism reported in Zvisha area. (Simulated),Political Graffiti / Public Property Damage,0,9,8,15,28,14
+2024-06-17,Vandalism,MARONDERA,-18.224586739903483,31.555333567068125,Under Investigation,Vandalism reported in Marondera area. (Simulated),Political Graffiti / Public Property Damage,0,6,9,15,20,14
+2024-01-27,Arson,KWEKWE,-18.87484503381732,29.836529102450537,Under Investigation,Arson reported in Kwekwe area. (Simulated),Business Dispute / Insurance Fraud,5,1,5,0,17,4
+2024-09-06,Assault,MARONDERA,-18.154852220453908,31.59480383958704,Under Investigation,Assault reported in Marondera area. (Simulated),Bar Fight / Alcohol Induced,4,9,17,1,20,2
+2024-06-05,Stock Theft,CHITUNGWIZA,-18.009591061053225,31.06778540938724,Closed,Stock Theft reported in Chitungwiza area. (Simulated),Night-time Farm Raid,2,6,0,13,7,10
+2024-05-20,Housebreaking,BULAWAYO,-20.12215040399156,28.5741008262162,Open,Housebreaking reported in Bulawayo area. (Simulated),Night-time Forced Entry (Residential),0,5,21,7,2,11
+2024-04-05,Kidnapping,HARARE,-17.82320932523136,31.08002157480973,Closed,Kidnapping reported in Harare area. (Simulated),Method Unspecified,4,4,17,8,12,9
+2024-08-25,Murder,KWEKWE,-18.911006763140342,29.856793944763076,Closed,Murder reported in Kwekwe area. (Simulated),Domestic Dispute Escalation,6,8,13,9,17,6
+2024-07-30,Stock Theft,HWANGE,-18.386364441746483,26.515928890881348,Under Investigation,Stock Theft reported in Hwange area. (Simulated),Cross-Border Smuggling,1,7,18,13,13,5
+2024-07-03,Housebreaking,CHITUNGWIZA,-17.968085022505107,31.043781673751948,Open,Housebreaking reported in Chitungwiza area. (Simulated),Night-time Forced Entry (Residential),2,7,7,7,7,11
+2024-09-09,Drug Possession,HARARE,-17.836990232362265,31.00310727207382,Closed,Drug Possession reported in Harare area. (Simulated),Method Unspecified,0,9,21,5,12,9
+2024-05-03,Kidnapping,HARARE,-17.80307105056602,31.043779487932536,Under Investigation,Kidnapping reported in Harare area. (Simulated),Method Unspecified,4,5,18,8,12,9
+2024-09-02,Housebreaking,BINDURA,-17.2652300573942,31.364765325636338,Closed,Housebreaking reported in Bindura area. (Simulated),Night-time Forced Entry (Residential),0,9,15,7,1,11
+2024-03-28,Theft,MASVINGO,-20.054853603566876,30.851664961638825,Under Investigation,Theft reported in Masvingo area. (Simulated),Theft of Auto Spares / Copper,3,3,11,14,21,18
+2024-08-09,Murder,GWERU,-19.465990832746535,29.79268425596668,Open,Murder reported in Gweru area. (Simulated),Domestic Dispute Escalation,4,8,11,9,10,6
+2024-06-12,Rape,BULAWAYO,-20.178331390005383,28.58856951589273,Open,Rape reported in Bulawayo area. (Simulated),Acquaintance Rape,2,6,9,10,2,0
+2024-02-09,Robbery,BEITBRIDGE,-22.198473905388447,29.963256207692325,Closed,Robbery reported in Beitbridge area. (Simulated),Machete Attack / Panga Robbery,4,2,15,11,0,8
+2024-05-05,Corruption,MARONDERA,-18.159044007734668,31.524356079175515,Open,Corruption reported in Marondera area. (Simulated),Police/Municipal Official Extortion,6,5,16,3,20,13
+2024-07-30,Housebreaking,CHITUNGWIZA,-18.01673802055438,31.07480809453251,Open,Housebreaking reported in Chitungwiza area. (Simulated),Night-time Forced Entry (Residential),1,7,12,7,7,11
+2024-04-30,Vandalism,KADOMA,-18.35115652644661,29.87296238768748,Open,Vandalism reported in Kadoma area. (Simulated),Political Graffiti / Public Property Damage,1,4,8,15,16,14
+2024-05-31,Murder,MUTARE,-18.952720382061617,32.63627912994287,Open,Murder reported in Mutare area. (Simulated),Ritualistic Crime,4,5,10,9,22,15
+2024-04-20,Cybercrime,MARONDERA,-18.174579802267004,31.54610663521573,Open,Cybercrime reported in Marondera area. (Simulated),Internet Phishing/Mobile Money Scam,5,4,16,4,20,7
+2024-09-03,Vandalism,MUTARE,-19.02027063072581,32.624591539332926,Under Investigation,Vandalism reported in Mutare area. (Simulated),Political Graffiti / Public Property Damage,1,9,18,15,22,14
+2024-03-01,Corruption,BULAWAYO,-20.138667445587824,28.606299728887837,Closed,Corruption reported in Bulawayo area. (Simulated),Police/Municipal Official Extortion,4,3,0,3,2,13
+2024-05-22,Smuggling,MARONDERA,-18.22971357457304,31.51245676451929,Closed,Smuggling reported in Marondera area. (Simulated),Border Post Bypass (Official Corruption),2,5,11,12,20,3
+2024-05-18,Fraud,BEITBRIDGE,-22.18426276491904,29.997154107293703,Under Investigation,Fraud reported in Beitbridge area. (Simulated),Internet Phishing/Mobile Money Scam,5,5,18,6,0,7
+2024-01-13,Smuggling,MASVINGO,-20.082389172053432,30.873517041532928,Under Investigation,Smuggling reported in Masvingo area. (Simulated),Border Post Bypass (Official Corruption),5,1,2,12,21,3
+2024-07-23,Robbery,KWEKWE,-18.92804196240621,29.806574948938945,Open,Robbery reported in Kwekwe area. (Simulated),Machete Attack / Panga Robbery,1,7,4,11,17,8
+2024-03-19,Cybercrime,HARARE,-17.82123019811649,31.01553569968428,Under Investigation,Cybercrime reported in Harare area. (Simulated),Internet Phishing/Mobile Money Scam,1,3,19,4,12,7
+2024-04-25,Cybercrime,KADOMA,-18.310014012838945,29.929594151563645,Closed,Cybercrime reported in Kadoma area. (Simulated),Internet Phishing/Mobile Money Scam,3,4,19,4,16,7
+2024-01-12,Housebreaking,MUTARE,-18.96763101280417,32.65226504757932,Under Investigation,Housebreaking reported in Mutare area. (Simulated),Night-time Forced Entry (Residential),4,1,17,7,22,11
+2024-10-24,Drug Possession,CHITUNGWIZA,-17.97911598089778,30.990439466154232,Under Investigation,Drug Possession reported in Chitungwiza area. (Simulated),Method Unspecified,3,10,14,5,7,9
+2024-10-03,Bribery,MUTARE,-18.9795700715964,32.69626357402764,Closed,Bribery reported in Mutare area. (Simulated),Police/Municipal Official Extortion,3,10,7,2,22,13
+2024-10-21,Cybercrime,GWERU,-19.451625613123397,29.8329553643352,Under Investigation,Cybercrime reported in Gweru area. (Simulated),Internet Phishing/Mobile Money Scam,0,10,3,4,10,7
+2024-08-26,Drug Possession,BULAWAYO,-20.157808051284466,28.575232772617607,Under Investigation,Drug Possession reported in Bulawayo area. (Simulated),Method Unspecified,0,8,3,5,2,9
+2024-10-09,Fraud,HARARE,-17.81290778575128,31.09504808033397,Closed,Fraud reported in Harare area. (Simulated),Internet Phishing/Mobile Money Scam,2,10,5,6,12,7
+2024-01-22,Murder,MUTARE,-19.010548836026487,32.71860855306367,Under Investigation,Murder reported in Mutare area. (Simulated),Ritualistic Crime,0,1,19,9,22,15
+2024-08-06,Bribery,HARARE,-17.855250480287268,31.015282507902317,Closed,Bribery reported in Harare area. (Simulated),Police/Municipal Official Extortion,1,8,20,2,12,13
+2024-09-03,Rape,CHITUNGWIZA,-17.964295251644614,31.045953055244336,Under Investigation,Rape reported in Chitungwiza area. (Simulated),Acquaintance Rape,1,9,13,10,7,0
+2024-02-20,Theft,KADOMA,-18.368317033151705,29.942177078855828,Under Investigation,Theft reported in Kadoma area. (Simulated),Theft of Auto Spares / Copper,1,2,1,14,16,18
+2024-10-21,Assault,CHINHOYI,-17.3968099321804,30.18960089345421,Closed,Assault reported in Chinhoyi area. (Simulated),Bar Fight / Alcohol Induced,0,10,18,1,6,2
+2024-10-21,Assault,BINDURA,-17.254489904367087,31.29297759701844,Closed,Assault reported in Bindura area. (Simulated),Bar Fight / Alcohol Induced,0,10,14,1,1,2
+2024-07-26,Murder,KADOMA,-18.361669627173256,29.915482239099934,Under Investigation,Murder reported in Kadoma area. (Simulated),Domestic Dispute Escalation,4,7,18,9,16,6
+2024-01-08,Smuggling,BULAWAYO,-20.16880228582108,28.625406628312764,Open,Smuggling reported in Bulawayo area. (Simulated),Border Post Bypass (Official Corruption),0,1,2,12,2,3
+2024-10-21,Murder,KADOMA,-18.28926148713456,29.886317432934277,Closed,Murder reported in Kadoma area. (Simulated),Ritualistic Crime,0,10,9,9,16,15
+2024-01-23,Housebreaking,MARONDERA,-18.14939562063758,31.515771723322874,Under Investigation,Housebreaking reported in Marondera area. (Simulated),Night-time Forced Entry (Residential),1,1,18,7,20,11
+2024-05-03,Kidnapping,HWANGE,-18.363616137455534,26.522489494348772,Under Investigation,Kidnapping reported in Hwange area. (Simulated),Method Unspecified,4,5,20,8,13,9
+2024-04-02,Vandalism,HARARE,-17.828992388560426,31.08632709625288,Open,Vandalism reported in Harare area. (Simulated),Political Graffiti / Public Property Damage,1,4,15,15,12,14
+2024-06-29,Cybercrime,ZVISHA,-20.377197542606485,30.036298139257795,Under Investigation,Cybercrime reported in Zvisha area. (Simulated),Internet Phishing/Mobile Money Scam,5,6,15,4,28,7
+2024-04-12,Theft,BINDURA,-17.29844664721749,31.31575544397746,Open,Theft reported in Bindura area. (Simulated),Theft of Auto Spares / Copper,4,4,0,14,1,18
+2024-03-08,Robbery,BINDURA,-17.28096035994915,31.313044429337623,Open,Robbery reported in Bindura area. (Simulated),Machete Attack / Panga Robbery,4,3,19,11,1,8
+2024-08-08,Rape,KWEKWE,-18.89279025184909,29.76920159094619,Closed,Rape reported in Kwekwe area. (Simulated),Acquaintance Rape,3,8,20,10,17,0
+2024-07-14,Kidnapping,KADOMA,-18.354621228446945,29.872547640322637,Closed,Kidnapping reported in Kadoma area. (Simulated),Method Unspecified,6,7,15,8,16,9
+2024-10-06,Assault,MUTARE,-18.926137656456422,32.72051376619431,Open,Assault reported in Mutare area. (Simulated),Bar Fight / Alcohol Induced,6,10,12,1,22,2
+2024-07-13,Cybercrime,BINDURA,-17.30921901529209,31.342319303065523,Under Investigation,Cybercrime reported in Bindura area. (Simulated),Internet Phishing/Mobile Money Scam,5,7,5,4,1,7
+2024-06-24,Murder,BULAWAYO,-20.18993804721472,28.571291580056936,Closed,Murder reported in Bulawayo area. (Simulated),Domestic Dispute Escalation,0,6,22,9,2,6
+2024-01-15,Theft,BEITBRIDGE,-22.226343085227317,29.96072524548948,Under Investigation,Theft reported in Beitbridge area. (Simulated),Pickpocketing in Crowded Area,0,1,21,14,0,12
+2024-08-26,Theft,MASVINGO,-20.069417796029903,30.81393557111627,Open,Theft reported in Masvingo area. (Simulated),Theft of Auto Spares / Copper,0,8,8,14,21,18
+2024-03-22,Corruption,MUTARE,-19.01505954686501,32.64320478379601,Under Investigation,Corruption reported in Mutare area. (Simulated),Police/Municipal Official Extortion,4,3,23,3,22,13
+2024-09-09,Corruption,ZVISHA,-20.37533473090944,30.032836169055976,Under Investigation,Corruption reported in Zvisha area. (Simulated),Police/Municipal Official Extortion,0,9,21,3,28,13
+2024-08-03,Theft,HARARE,-17.811323519354712,31.015206037835775,Open,Theft reported in Harare area. (Simulated),Theft of Auto Spares / Copper,5,8,10,14,12,18
+2024-08-10,Fraud,MARONDERA,-18.231426322727994,31.595734627808707,Closed,Fraud reported in Marondera area. (Simulated),Internet Phishing/Mobile Money Scam,5,8,15,6,20,7
+2024-01-01,Cybercrime,HARARE,-17.81670962021778,31.05363781237051,Open,Cybercrime reported in Harare area. (Simulated),Internet Phishing/Mobile Money Scam,0,1,15,4,12,7
+2024-10-02,Robbery,BULAWAYO,-20.172939809365584,28.570515847893247,Under Investigation,Robbery reported in Bulawayo area. (Simulated),"Armed, Targeting Cash Transit",2,10,15,11,2,1
+2024-08-17,Fraud,VIC FALLS,-17.92342658606872,25.857339998389964,Under Investigation,Fraud reported in Vic falls area. (Simulated),Internet Phishing/Mobile Money Scam,5,8,21,6,26,7
+2024-01-31,Corruption,CHINHOYI,-17.359681548668934,30.15947324840786,Open,Corruption reported in Chinhoyi area. (Simulated),Police/Municipal Official Extortion,2,1,6,3,6,13
+2024-02-06,Housebreaking,MARONDERA,-18.169994824013468,31.526907087929352,Closed,Housebreaking reported in Marondera area. (Simulated),Night-time Forced Entry (Residential),1,2,19,7,20,11
+2024-02-14,Drug Possession,GWERU,-19.40707567644278,29.801580991452106,Open,Drug Possession reported in Gweru area. (Simulated),Method Unspecified,2,2,12,5,10,9
+2024-03-05,Fraud,BINDURA,-17.259327012997634,31.351079504179346,Closed,Fraud reported in Bindura area. (Simulated),Internet Phishing/Mobile Money Scam,1,3,15,6,1,7
+2024-02-02,Vandalism,MARONDERA,-18.17709698646677,31.51416959966466,Under Investigation,Vandalism reported in Marondera area. (Simulated),Political Graffiti / Public Property Damage,4,2,11,15,20,14
+2024-09-14,Bribery,MASVINGO,-20.04179236589665,30.79996640472017,Open,Bribery reported in Masvingo area. (Simulated),Police/Municipal Official Extortion,5,9,11,2,21,13
+2024-05-01,Corruption,CHITUNGWIZA,-17.997561946579463,30.99279653091671,Open,Corruption reported in Chitungwiza area. (Simulated),Police/Municipal Official Extortion,2,5,23,3,7,13
+2024-07-05,Fraud,BULAWAYO,-20.159381771906144,28.62574361760459,Open,Fraud reported in Bulawayo area. (Simulated),Internet Phishing/Mobile Money Scam,4,7,14,6,2,7
+2024-10-18,Corruption,MUTARE,-18.999902391862275,32.720012667849474,Under Investigation,Corruption reported in Mutare area. (Simulated),Police/Municipal Official Extortion,4,10,0,3,22,13
+2024-01-30,Robbery,MUTARE,-18.97601285052789,32.66029820045145,Open,Robbery reported in Mutare area. (Simulated),Machete Attack / Panga Robbery,1,1,10,11,22,8
+2024-04-29,Fraud,CHITUNGWIZA,-18.01052348408913,31.06019990988563,Under Investigation,Fraud reported in Chitungwiza area. (Simulated),Internet Phishing/Mobile Money Scam,0,4,10,6,7,7
+2024-05-29,Bribery,BULAWAYO,-20.18069429597978,28.56534029182713,Open,Bribery reported in Bulawayo area. (Simulated),Police/Municipal Official Extortion,2,5,6,2,2,13
+2024-06-23,Rape,GWERU,-19.470964236686868,29.83367235919332,Under Investigation,Rape reported in Gweru area. (Simulated),Acquaintance Rape,6,6,17,10,10,0
+2024-07-23,Murder,KADOMA,-18.360994147997747,29.95524923464305,Under Investigation,Murder reported in Kadoma area. (Simulated),Domestic Dispute Escalation,1,7,17,9,16,6
+2024-06-22,Robbery,CHINHOYI,-17.342595080066,30.20114961308367,Under Investigation,Robbery reported in Chinhoyi area. (Simulated),Machete Attack / Panga Robbery,5,6,9,11,6,8
+2024-07-25,Theft,HARARE,-17.809444725421862,31.03512445103849,Closed,Theft reported in Harare area. (Simulated),Theft of Auto Spares / Copper,3,7,10,14,12,18
+2024-09-30,Robbery,MUTARE,-18.999924053675485,32.63416661020761,Under Investigation,Robbery reported in Mutare area. (Simulated),Machete Attack / Panga Robbery,0,9,20,11,22,8
+2024-10-18,Bribery,VIC FALLS,-17.90248040711212,25.80960342645867,Open,Bribery reported in Vic falls area. (Simulated),Police/Municipal Official Extortion,4,10,2,2,26,13
+2024-08-20,Vandalism,VIC FALLS,-17.953843208765626,25.869608346420502,Closed,Vandalism reported in Vic falls area. (Simulated),Political Graffiti / Public Property Damage,1,8,5,15,26,14
+2024-09-12,Corruption,HARARE,-17.821368431398906,31.065994391473023,Under Investigation,Corruption reported in Harare area. (Simulated),Police/Municipal Official Extortion,3,9,13,3,12,13
+2024-07-17,Corruption,BINDURA,-17.28143887786137,31.289250822556767,Under Investigation,Corruption reported in Bindura area. (Simulated),Police/Municipal Official Extortion,2,7,18,3,1,13
+2024-04-22,Rape,MASVINGO,-20.05165681185506,30.791314370452827,Open,Rape reported in Masvingo area. (Simulated),Stranger Assault / Predatory,0,4,2,10,21,17
+2024-08-01,Drug Possession,CHINHOYI,-17.325116562577193,30.16890527673377,Under Investigation,Drug Possession reported in Chinhoyi area. (Simulated),Method Unspecified,3,8,10,5,6,9
+2024-06-07,Housebreaking,KWEKWE,-18.946407793929865,29.83885045668614,Under Investigation,Housebreaking reported in Kwekwe area. (Simulated),Night-time Forced Entry (Residential),4,6,3,7,17,11
+2024-05-17,Smuggling,MUTARE,-18.974048155751188,32.64236221797283,Under Investigation,Smuggling reported in Mutare area. (Simulated),Border Post Bypass (Official Corruption),4,5,21,12,22,3
+2024-02-10,Assault,HWANGE,-18.35323500572699,26.488176599663607,Under Investigation,Assault reported in Hwange area. (Simulated),Bar Fight / Alcohol Induced,5,2,10,1,13,2
+2024-03-24,Drug Possession,CHITUNGWIZA,-18.0442980527404,31.06758460023577,Under Investigation,Drug Possession reported in Chitungwiza area. (Simulated),Method Unspecified,6,3,7,5,7,9
+2024-07-07,Theft,HWANGE,-18.317148632974536,26.489105021998995,Open,Theft reported in Hwange area. (Simulated),Pickpocketing in Crowded Area,6,7,8,14,13,12
+2024-05-21,Smuggling,KADOMA,-18.32209689744298,29.93720133923861,Closed,Smuggling reported in Kadoma area. (Simulated),Border Post Bypass (Official Corruption),1,5,20,12,16,3
+2024-08-04,Cybercrime,BULAWAYO,-20.188958287277707,28.62266873350098,Open,Cybercrime reported in Bulawayo area. (Simulated),Internet Phishing/Mobile Money Scam,6,8,10,4,2,7
+2024-02-22,Smuggling,BEITBRIDGE,-22.179002187464604,30.02288614922441,Open,Smuggling reported in Beitbridge area. (Simulated),Border Post Bypass (Official Corruption),3,2,23,12,0,3
+2024-04-27,Drug Possession,ZVISHA,-20.379614619153266,30.065876457702277,Under Investigation,Drug Possession reported in Zvisha area. (Simulated),Method Unspecified,5,4,19,5,28,9
+2024-05-23,Smuggling,KADOMA,-18.29379457993679,29.892958481584728,Closed,Smuggling reported in Kadoma area. (Simulated),Border Post Bypass (Official Corruption),3,5,21,12,16,3
+2024-06-24,Robbery,MASVINGO,-20.017628223689805,30.86437149109728,Under Investigation,Robbery reported in Masvingo area. (Simulated),Machete Attack / Panga Robbery,0,6,19,11,21,8
+2024-05-26,Murder,GWERU,-19.437283100224263,29.770121280496443,Open,Murder reported in Gweru area. (Simulated),Domestic Dispute Escalation,6,5,17,9,10,6
+2024-01-10,Rape,CHITUNGWIZA,-18.0510820796034,31.009430005423432,Open,Rape reported in Chitungwiza area. (Simulated),Acquaintance Rape,2,1,2,10,7,0
+2024-03-17,Theft,GWERU,-19.460876994363225,29.83405281366153,Closed,Theft reported in Gweru area. (Simulated),Theft of Auto Spares / Copper,6,3,10,14,10,18
+2024-08-25,Fraud,VIC FALLS,-17.923557762345077,25.877183195980862,Closed,Fraud reported in Vic falls area. (Simulated),Internet Phishing/Mobile Money Scam,6,8,1,6,26,7
+2024-10-27,Fraud,KADOMA,-18.29385668333481,29.94700127822778,Under Investigation,Fraud reported in Kadoma area. (Simulated),Internet Phishing/Mobile Money Scam,6,10,16,6,16,7
+2024-01-26,Smuggling,BULAWAYO,-20.155660478097317,28.603618078127816,Closed,Smuggling reported in Bulawayo area. (Simulated),Border Post Bypass (Official Corruption),4,1,13,12,2,3
+2024-09-08,Drug Possession,MUTARE,-19.015965876347245,32.67029566028053,Under Investigation,Drug Possession reported in Mutare area. (Simulated),Method Unspecified,6,9,18,5,22,9
+2024-06-17,Smuggling,CHITUNGWIZA,-17.989470174867616,31.0196260311354,Closed,Smuggling reported in Chitungwiza area. (Simulated),Border Post Bypass (Official Corruption),0,6,13,12,7,3

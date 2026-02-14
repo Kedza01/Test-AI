@@ -1,0 +1,193 @@
+<div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><span style="color:#565656">Make this Notebook Trusted to load map: File -> Trust Notebook</span><iframe srcdoc="&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    
+    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;https://code.jquery.com/jquery-3.7.1.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js&quot;&gt;&lt;/script&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css&quot;/&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css&quot;/&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css&quot;/&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css&quot;/&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot;/&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css&quot;/&gt;
+    
+            &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no&quot; /&gt;
+            &lt;style&gt;
+                #map_0d787b3f98c16970b2fff1cdb85f0c72 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            &lt;/style&gt;
+
+            &lt;style&gt;html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            &lt;/style&gt;
+
+            &lt;style&gt;#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            &lt;/style&gt;
+
+            &lt;script&gt;
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            &lt;/script&gt;
+
+        
+&lt;/head&gt;
+&lt;body&gt;
+    
+    
+            &lt;div class=&quot;folium-map&quot; id=&quot;map_0d787b3f98c16970b2fff1cdb85f0c72&quot; &gt;&lt;/div&gt;
+        
+&lt;/body&gt;
+&lt;script&gt;
+    
+    
+            var map_0d787b3f98c16970b2fff1cdb85f0c72 = L.map(
+                &quot;map_0d787b3f98c16970b2fff1cdb85f0c72&quot;,
+                {
+                    center: [-18.90595866368399, 29.758009480285867],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  &quot;zoom&quot;: 6,
+  &quot;zoomControl&quot;: true,
+  &quot;preferCanvas&quot;: false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_93ff5484ba4584ab10204277701160ae = L.tileLayer(
+                &quot;https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png&quot;,
+                {
+  &quot;minZoom&quot;: 0,
+  &quot;maxZoom&quot;: 20,
+  &quot;maxNativeZoom&quot;: 20,
+  &quot;noWrap&quot;: false,
+  &quot;attribution&quot;: &quot;\u0026copy; \u003ca href=\&quot;https://www.openstreetmap.org/copyright\&quot;\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\&quot;https://carto.com/attributions\&quot;\u003eCARTO\u003c/a\u003e&quot;,
+  &quot;subdomains&quot;: &quot;abcd&quot;,
+  &quot;detectRetina&quot;: false,
+  &quot;tms&quot;: false,
+  &quot;opacity&quot;: 1,
+}
+
+            );
+        
+    
+            tile_layer_93ff5484ba4584ab10204277701160ae.addTo(map_0d787b3f98c16970b2fff1cdb85f0c72);
+        
+    
+            var circle_c8f6c5f82e7ef5a7ea9fdd8a4890dd95 = L.circle(
+                [-18.14707665551546, 26.15659191545051],
+                {&quot;bubblingMouseEvents&quot;: true, &quot;color&quot;: &quot;red&quot;, &quot;dashArray&quot;: null, &quot;dashOffset&quot;: null, &quot;fill&quot;: true, &quot;fillColor&quot;: &quot;red&quot;, &quot;fillOpacity&quot;: 0.6, &quot;fillRule&quot;: &quot;evenodd&quot;, &quot;lineCap&quot;: &quot;round&quot;, &quot;lineJoin&quot;: &quot;round&quot;, &quot;opacity&quot;: 1.0, &quot;radius&quot;: 10260.663507109006, &quot;stroke&quot;: true, &quot;weight&quot;: 3}
+            ).addTo(map_0d787b3f98c16970b2fff1cdb85f0c72);
+        
+    
+        var popup_59ff152e757945499fde4db77457c2c9 = L.popup({
+  &quot;maxWidth&quot;: &quot;100%&quot;,
+});
+
+        
+            
+                var html_82daed4e543835d647013c4f46b4e63e = $(`&lt;div id=&quot;html_82daed4e543835d647013c4f46b4e63e&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;             &lt;b&gt;Hotspot:&lt;/b&gt; Property/Cyber Focus&lt;br&gt;             &lt;b&gt;Total Cases:&lt;/b&gt; 74&lt;br&gt;             &lt;b&gt;Top Crime:&lt;/b&gt; Rape&lt;br&gt;             &lt;b&gt;Coordinates:&lt;/b&gt; (-18.1471, 26.1566)         &lt;/div&gt;`)[0];
+                popup_59ff152e757945499fde4db77457c2c9.setContent(html_82daed4e543835d647013c4f46b4e63e);
+            
+        
+
+        circle_c8f6c5f82e7ef5a7ea9fdd8a4890dd95.bindPopup(popup_59ff152e757945499fde4db77457c2c9)
+        ;
+
+        
+    
+    
+            var circle_e987e8439454861a72b90e474e20b85a = L.circle(
+                [-17.93759102484012, 30.97870037467519],
+                {&quot;bubblingMouseEvents&quot;: true, &quot;color&quot;: &quot;orange&quot;, &quot;dashArray&quot;: null, &quot;dashOffset&quot;: null, &quot;fill&quot;: true, &quot;fillColor&quot;: &quot;orange&quot;, &quot;fillOpacity&quot;: 0.6, &quot;fillRule&quot;: &quot;evenodd&quot;, &quot;lineCap&quot;: &quot;round&quot;, &quot;lineJoin&quot;: &quot;round&quot;, &quot;opacity&quot;: 1.0, &quot;radius&quot;: 20000.0, &quot;stroke&quot;: true, &quot;weight&quot;: 3}
+            ).addTo(map_0d787b3f98c16970b2fff1cdb85f0c72);
+        
+    
+        var popup_4d23a94683f189831431affbfc650804 = L.popup({
+  &quot;maxWidth&quot;: &quot;100%&quot;,
+});
+
+        
+            
+                var html_12d58765e780bbd55564c6735b1aad8b = $(`&lt;div id=&quot;html_12d58765e780bbd55564c6735b1aad8b&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;             &lt;b&gt;Hotspot:&lt;/b&gt; Violent/Market Focus&lt;br&gt;             &lt;b&gt;Total Cases:&lt;/b&gt; 211&lt;br&gt;             &lt;b&gt;Top Crime:&lt;/b&gt; Murder&lt;br&gt;             &lt;b&gt;Coordinates:&lt;/b&gt; (-17.9376, 30.9787)         &lt;/div&gt;`)[0];
+                popup_4d23a94683f189831431affbfc650804.setContent(html_12d58765e780bbd55564c6735b1aad8b);
+            
+        
+
+        circle_e987e8439454861a72b90e474e20b85a.bindPopup(popup_4d23a94683f189831431affbfc650804)
+        ;
+
+        
+    
+    
+            var circle_40dd5bbeb859e1a7d8270c8c519c82d5 = L.circle(
+                [-19.790611925654755, 29.768244666800655],
+                {&quot;bubblingMouseEvents&quot;: true, &quot;color&quot;: &quot;purple&quot;, &quot;dashArray&quot;: null, &quot;dashOffset&quot;: null, &quot;fill&quot;: true, &quot;fillColor&quot;: &quot;purple&quot;, &quot;fillOpacity&quot;: 0.6, &quot;fillRule&quot;: &quot;evenodd&quot;, &quot;lineCap&quot;: &quot;round&quot;, &quot;lineJoin&quot;: &quot;round&quot;, &quot;opacity&quot;: 1.0, &quot;radius&quot;: 18222.748815165876, &quot;stroke&quot;: true, &quot;weight&quot;: 3}
+            ).addTo(map_0d787b3f98c16970b2fff1cdb85f0c72);
+        
+    
+        var popup_a88caa77d0e12e446171a9818be39e82 = L.popup({
+  &quot;maxWidth&quot;: &quot;100%&quot;,
+});
+
+        
+            
+                var html_504dcc3cee7a83b8c07935cb51b91bd2 = $(`&lt;div id=&quot;html_504dcc3cee7a83b8c07935cb51b91bd2&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;             &lt;b&gt;Hotspot:&lt;/b&gt; Residential/Community Focus&lt;br&gt;             &lt;b&gt;Total Cases:&lt;/b&gt; 186&lt;br&gt;             &lt;b&gt;Top Crime:&lt;/b&gt; Smuggling&lt;br&gt;             &lt;b&gt;Coordinates:&lt;/b&gt; (-19.7906, 29.7682)         &lt;/div&gt;`)[0];
+                popup_a88caa77d0e12e446171a9818be39e82.setContent(html_504dcc3cee7a83b8c07935cb51b91bd2);
+            
+        
+
+        circle_40dd5bbeb859e1a7d8270c8c519c82d5.bindPopup(popup_a88caa77d0e12e446171a9818be39e82)
+        ;
+
+        
+    
+    
+            var circle_8532fa3a653585a287ac219a2ac4173e = L.circle(
+                [-22.21414258347585, 30.00060866614508],
+                {&quot;bubblingMouseEvents&quot;: true, &quot;color&quot;: &quot;blue&quot;, &quot;dashArray&quot;: null, &quot;dashOffset&quot;: null, &quot;fill&quot;: true, &quot;fillColor&quot;: &quot;blue&quot;, &quot;fillOpacity&quot;: 0.6, &quot;fillRule&quot;: &quot;evenodd&quot;, &quot;lineCap&quot;: &quot;round&quot;, &quot;lineJoin&quot;: &quot;round&quot;, &quot;opacity&quot;: 1.0, &quot;radius&quot;: 7061.611374407583, &quot;stroke&quot;: true, &quot;weight&quot;: 3}
+            ).addTo(map_0d787b3f98c16970b2fff1cdb85f0c72);
+        
+    
+        var popup_ca2e9f7de06c429cb226926bd2641f13 = L.popup({
+  &quot;maxWidth&quot;: &quot;100%&quot;,
+});
+
+        
+            
+                var html_b18b6b521afb825761e877fcffee5208 = $(`&lt;div id=&quot;html_b18b6b521afb825761e877fcffee5208&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;             &lt;b&gt;Hotspot:&lt;/b&gt; Transit/Highway Focus&lt;br&gt;             &lt;b&gt;Total Cases:&lt;/b&gt; 29&lt;br&gt;             &lt;b&gt;Top Crime:&lt;/b&gt; Bribery&lt;br&gt;             &lt;b&gt;Coordinates:&lt;/b&gt; (-22.2141, 30.0006)         &lt;/div&gt;`)[0];
+                popup_ca2e9f7de06c429cb226926bd2641f13.setContent(html_b18b6b521afb825761e877fcffee5208);
+            
+        
+
+        circle_8532fa3a653585a287ac219a2ac4173e.bindPopup(popup_ca2e9f7de06c429cb226926bd2641f13)
+        ;
+
+        
+    
+&lt;/script&gt;
+&lt;/html&gt;" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe></div></div>
